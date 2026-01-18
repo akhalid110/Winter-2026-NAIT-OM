@@ -1,0 +1,14 @@
+E:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\Lecture1Demo4\Lecture1Demo4\bin\Debug\net8.0\Lecture1Demo4.exe
+E:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\Lecture1Demo4\Lecture1Demo4\bin\Debug\net8.0\Lecture1Demo4.deps.json
+E:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\Lecture1Demo4\Lecture1Demo4\bin\Debug\net8.0\Lecture1Demo4.runtimeconfig.json
+E:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\Lecture1Demo4\Lecture1Demo4\bin\Debug\net8.0\Lecture1Demo4.dll
+E:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\Lecture1Demo4\Lecture1Demo4\bin\Debug\net8.0\Lecture1Demo4.pdb
+E:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\Lecture1Demo4\Lecture1Demo4\obj\Debug\net8.0\Lecture1Demo4.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\Lecture1Demo4\Lecture1Demo4\obj\Debug\net8.0\Lecture1Demo4.AssemblyInfoInputs.cache
+E:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\Lecture1Demo4\Lecture1Demo4\obj\Debug\net8.0\Lecture1Demo4.AssemblyInfo.cs
+E:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\Lecture1Demo4\Lecture1Demo4\obj\Debug\net8.0\Lecture1Demo4.csproj.CoreCompileInputs.cache
+E:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\Lecture1Demo4\Lecture1Demo4\obj\Debug\net8.0\Lecture1Demo4.dll
+E:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\Lecture1Demo4\Lecture1Demo4\obj\Debug\net8.0\refint\Lecture1Demo4.dll
+E:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\Lecture1Demo4\Lecture1Demo4\obj\Debug\net8.0\Lecture1Demo4.pdb
+E:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\Lecture1Demo4\Lecture1Demo4\obj\Debug\net8.0\Lecture1Demo4.genruntimeconfig.cache
+E:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\Lecture1Demo4\Lecture1Demo4\obj\Debug\net8.0\ref\Lecture1Demo4.dll

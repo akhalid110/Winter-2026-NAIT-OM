@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\NAIT (Winter 2026)\\cmpe2300 - object oriented programming\\demos\\Lecture1Demo9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D9AED0-ABEE-4725-BE85-EFFAA2DAD609}|Lecture1Demo9\\Lecture1Demo9.csproj|e:\\nait (winter 2026)\\cmpe2300 - object oriented programming\\demos\\lecture1demo9\\lecture1demo9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D9AED0-ABEE-4725-BE85-EFFAA2DAD609}|Lecture1Demo9\\Lecture1Demo9.csproj|solutionrelative:lecture1demo9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\NAIT (Winter 2026)\\cmpe2300 - object oriented programming\\demos\\Lecture1Demo9\\Lecture1Demo9\\Program.cs",
+              "RelativeDocumentMoniker": "Lecture1Demo9\\Program.cs",
+              "ToolTip": "E:\\NAIT (Winter 2026)\\cmpe2300 - object oriented programming\\demos\\Lecture1Demo9\\Lecture1Demo9\\Program.cs",
+              "RelativeToolTip": "Lecture1Demo9\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T22:24:40.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
