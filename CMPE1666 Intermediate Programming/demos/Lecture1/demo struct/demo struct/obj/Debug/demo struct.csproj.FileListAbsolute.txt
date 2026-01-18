@@ -1,0 +1,8 @@
+C:\Users\adhillon45\Desktop\cmpe1666-1252e01submissions-Arshdeep1810\class demo\demo struct\demo struct\bin\Debug\demo struct.exe.config
+C:\Users\adhillon45\Desktop\cmpe1666-1252e01submissions-Arshdeep1810\class demo\demo struct\demo struct\bin\Debug\demo struct.exe
+C:\Users\adhillon45\Desktop\cmpe1666-1252e01submissions-Arshdeep1810\class demo\demo struct\demo struct\bin\Debug\demo struct.pdb
+C:\Users\adhillon45\Desktop\cmpe1666-1252e01submissions-Arshdeep1810\class demo\demo struct\demo struct\obj\Debug\demo struct.csproj.AssemblyReference.cache
+C:\Users\adhillon45\Desktop\cmpe1666-1252e01submissions-Arshdeep1810\class demo\demo struct\demo struct\obj\Debug\demo struct.csproj.CoreCompileInputs.cache
+C:\Users\adhillon45\Desktop\cmpe1666-1252e01submissions-Arshdeep1810\class demo\demo struct\demo struct\obj\Debug\demo struct.exe
+C:\Users\adhillon45\Desktop\cmpe1666-1252e01submissions-Arshdeep1810\class demo\demo struct\demo struct\obj\Debug\demo struct.pdb
+C:\Users\adhillon45\Desktop\cmpe1666-1252e01submissions-Arshdeep1810\class demo\demo struct\demo struct\obj\Debug\demo struct.exe.config

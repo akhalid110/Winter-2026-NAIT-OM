@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NAIT (Winter 2026)\\cmpe1666 - Intermediate Programming\\demos\\Lecture2\\Lecture2Exercise1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96F9F08B-1173-414B-915B-87269E4CA869}|Lecture2Exercise1\\Lecture2Exercise1.csproj|d:\\nait (winter 2026)\\cmpe1666 - intermediate programming\\demos\\lecture2\\lecture2exercise1\\lecture2exercise1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F9F08B-1173-414B-915B-87269E4CA869}|Lecture2Exercise1\\Lecture2Exercise1.csproj|solutionrelative:lecture2exercise1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F9F08B-1173-414B-915B-87269E4CA869}|Lecture2Exercise1\\Lecture2Exercise1.csproj|D:\\NAIT (Winter 2026)\\cmpe1666 - Intermediate Programming\\demos\\Lecture2\\Lecture2Exercise1\\lecture2exercise1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96F9F08B-1173-414B-915B-87269E4CA869}|Lecture2Exercise1\\Lecture2Exercise1.csproj|solutionrelative:lecture2exercise1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\NAIT (Winter 2026)\\cmpe1666 - Intermediate Programming\\demos\\Lecture2\\Lecture2Exercise1\\Lecture2Exercise1\\Form1.cs",
+              "RelativeDocumentMoniker": "Lecture2Exercise1\\Form1.cs",
+              "ToolTip": "D:\\NAIT (Winter 2026)\\cmpe1666 - Intermediate Programming\\demos\\Lecture2\\Lecture2Exercise1\\Lecture2Exercise1\\Form1.cs",
+              "RelativeToolTip": "Lecture2Exercise1\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T02:50:13.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\NAIT (Winter 2026)\\cmpe1666 - Intermediate Programming\\demos\\Lecture2\\Lecture2Exercise1\\Lecture2Exercise1\\Form1.cs",
+              "RelativeDocumentMoniker": "Lecture2Exercise1\\Form1.cs",
+              "ToolTip": "C:\\Users\\opatel3\\Downloads\\Lecture2Exercise1\\Lecture2Exercise1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T02:50:04.011Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

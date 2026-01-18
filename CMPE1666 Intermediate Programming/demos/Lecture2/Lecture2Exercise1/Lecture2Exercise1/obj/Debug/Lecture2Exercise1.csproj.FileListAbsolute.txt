@@ -1,0 +1,10 @@
+C:\Users\opatel3\Downloads\Lecture2Exercise1\Lecture2Exercise1\bin\Debug\Lecture2Exercise1.exe.config
+C:\Users\opatel3\Downloads\Lecture2Exercise1\Lecture2Exercise1\bin\Debug\Lecture2Exercise1.exe
+C:\Users\opatel3\Downloads\Lecture2Exercise1\Lecture2Exercise1\bin\Debug\Lecture2Exercise1.pdb
+C:\Users\opatel3\Downloads\Lecture2Exercise1\Lecture2Exercise1\obj\Debug\Lecture2Exercise1.csproj.AssemblyReference.cache
+C:\Users\opatel3\Downloads\Lecture2Exercise1\Lecture2Exercise1\obj\Debug\Lecture2Exercise1.Form1.resources
+C:\Users\opatel3\Downloads\Lecture2Exercise1\Lecture2Exercise1\obj\Debug\Lecture2Exercise1.Properties.Resources.resources
+C:\Users\opatel3\Downloads\Lecture2Exercise1\Lecture2Exercise1\obj\Debug\Lecture2Exercise1.csproj.GenerateResource.cache
+C:\Users\opatel3\Downloads\Lecture2Exercise1\Lecture2Exercise1\obj\Debug\Lecture2Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\opatel3\Downloads\Lecture2Exercise1\Lecture2Exercise1\obj\Debug\Lecture2Exercise1.exe
+C:\Users\opatel3\Downloads\Lecture2Exercise1\Lecture2Exercise1\obj\Debug\Lecture2Exercise1.pdb

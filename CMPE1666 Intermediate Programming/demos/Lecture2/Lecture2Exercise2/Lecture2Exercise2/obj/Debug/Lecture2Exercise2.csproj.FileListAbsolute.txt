@@ -1,0 +1,10 @@
+D:\NAIT (Winter 2026)\cmpe1666 - Intermediate Programming\demos\Lecture2\Lecture2Exercise2\Lecture2Exercise2\bin\Debug\Lecture2Exercise2.exe.config
+D:\NAIT (Winter 2026)\cmpe1666 - Intermediate Programming\demos\Lecture2\Lecture2Exercise2\Lecture2Exercise2\bin\Debug\Lecture2Exercise2.exe
+D:\NAIT (Winter 2026)\cmpe1666 - Intermediate Programming\demos\Lecture2\Lecture2Exercise2\Lecture2Exercise2\bin\Debug\Lecture2Exercise2.pdb
+D:\NAIT (Winter 2026)\cmpe1666 - Intermediate Programming\demos\Lecture2\Lecture2Exercise2\Lecture2Exercise2\obj\Debug\Lecture2Exercise2.csproj.AssemblyReference.cache
+D:\NAIT (Winter 2026)\cmpe1666 - Intermediate Programming\demos\Lecture2\Lecture2Exercise2\Lecture2Exercise2\obj\Debug\Lecture2Exercise2.Form1.resources
+D:\NAIT (Winter 2026)\cmpe1666 - Intermediate Programming\demos\Lecture2\Lecture2Exercise2\Lecture2Exercise2\obj\Debug\Lecture2Exercise2.Properties.Resources.resources
+D:\NAIT (Winter 2026)\cmpe1666 - Intermediate Programming\demos\Lecture2\Lecture2Exercise2\Lecture2Exercise2\obj\Debug\Lecture2Exercise2.csproj.GenerateResource.cache
+D:\NAIT (Winter 2026)\cmpe1666 - Intermediate Programming\demos\Lecture2\Lecture2Exercise2\Lecture2Exercise2\obj\Debug\Lecture2Exercise2.csproj.CoreCompileInputs.cache
+D:\NAIT (Winter 2026)\cmpe1666 - Intermediate Programming\demos\Lecture2\Lecture2Exercise2\Lecture2Exercise2\obj\Debug\Lecture2Exercise2.exe
+D:\NAIT (Winter 2026)\cmpe1666 - Intermediate Programming\demos\Lecture2\Lecture2Exercise2\Lecture2Exercise2\obj\Debug\Lecture2Exercise2.pdb
