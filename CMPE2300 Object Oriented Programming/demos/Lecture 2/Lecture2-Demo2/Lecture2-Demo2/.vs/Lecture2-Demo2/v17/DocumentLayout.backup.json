@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lpicherack1\\Desktop\\Demos\\Lecture2-Demo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC837078-56D9-455E-8104-C3769DCD3DD0}|Lecture2-Demo2\\Lecture2-Demo2.csproj|c:\\users\\lpicherack1\\desktop\\demos\\lecture2-demo2\\lecture2-demo2\\cstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC837078-56D9-455E-8104-C3769DCD3DD0}|Lecture2-Demo2\\Lecture2-Demo2.csproj|solutionrelative:lecture2-demo2\\cstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC837078-56D9-455E-8104-C3769DCD3DD0}|Lecture2-Demo2\\Lecture2-Demo2.csproj|c:\\users\\lpicherack1\\desktop\\demos\\lecture2-demo2\\lecture2-demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC837078-56D9-455E-8104-C3769DCD3DD0}|Lecture2-Demo2\\Lecture2-Demo2.csproj|solutionrelative:lecture2-demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CStudent.cs",
+              "DocumentMoniker": "C:\\Users\\lpicherack1\\Desktop\\Demos\\Lecture2-Demo2\\Lecture2-Demo2\\CStudent.cs",
+              "RelativeDocumentMoniker": "Lecture2-Demo2\\CStudent.cs",
+              "ToolTip": "C:\\Users\\lpicherack1\\Desktop\\Demos\\Lecture2-Demo2\\Lecture2-Demo2\\CStudent.cs",
+              "RelativeToolTip": "Lecture2-Demo2\\CStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:19:14.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lpicherack1\\Desktop\\Demos\\Lecture2-Demo2\\Lecture2-Demo2\\Program.cs",
+              "RelativeDocumentMoniker": "Lecture2-Demo2\\Program.cs",
+              "ToolTip": "C:\\Users\\lpicherack1\\Desktop\\Demos\\Lecture2-Demo2\\Lecture2-Demo2\\Program.cs",
+              "RelativeToolTip": "Lecture2-Demo2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T22:18:30.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
