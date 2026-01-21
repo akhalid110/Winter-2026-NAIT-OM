@@ -1,0 +1,14 @@
+F:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\letcure 2\Lecture2Demo1\Lecture2Demo1\bin\Debug\net8.0\Lecture2Demo1.exe
+F:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\letcure 2\Lecture2Demo1\Lecture2Demo1\bin\Debug\net8.0\Lecture2Demo1.deps.json
+F:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\letcure 2\Lecture2Demo1\Lecture2Demo1\bin\Debug\net8.0\Lecture2Demo1.runtimeconfig.json
+F:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\letcure 2\Lecture2Demo1\Lecture2Demo1\bin\Debug\net8.0\Lecture2Demo1.dll
+F:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\letcure 2\Lecture2Demo1\Lecture2Demo1\bin\Debug\net8.0\Lecture2Demo1.pdb
+F:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\letcure 2\Lecture2Demo1\Lecture2Demo1\obj\Debug\net8.0\Lecture2Demo1.GeneratedMSBuildEditorConfig.editorconfig
+F:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\letcure 2\Lecture2Demo1\Lecture2Demo1\obj\Debug\net8.0\Lecture2Demo1.AssemblyInfoInputs.cache
+F:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\letcure 2\Lecture2Demo1\Lecture2Demo1\obj\Debug\net8.0\Lecture2Demo1.AssemblyInfo.cs
+F:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\letcure 2\Lecture2Demo1\Lecture2Demo1\obj\Debug\net8.0\Lecture2Demo1.csproj.CoreCompileInputs.cache
+F:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\letcure 2\Lecture2Demo1\Lecture2Demo1\obj\Debug\net8.0\Lecture2Demo1.dll
+F:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\letcure 2\Lecture2Demo1\Lecture2Demo1\obj\Debug\net8.0\refint\Lecture2Demo1.dll
+F:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\letcure 2\Lecture2Demo1\Lecture2Demo1\obj\Debug\net8.0\Lecture2Demo1.pdb
+F:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\letcure 2\Lecture2Demo1\Lecture2Demo1\obj\Debug\net8.0\Lecture2Demo1.genruntimeconfig.cache
+F:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\letcure 2\Lecture2Demo1\Lecture2Demo1\obj\Debug\net8.0\ref\Lecture2Demo1.dll

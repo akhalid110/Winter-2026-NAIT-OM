@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ompatel\\Documents\\GitHub\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture2\\Lecture2Demo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E83458-9B28-4FBA-80DB-ADFD6A413E70}|Lecture2Demo2\\Lecture2Demo2.csproj|c:\\users\\ompatel\\documents\\github\\winter-2026-nait-\\cmpe2300 object oriented programming\\demos\\lecture2\\lecture2demo2\\lecture2demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E83458-9B28-4FBA-80DB-ADFD6A413E70}|Lecture2Demo2\\Lecture2Demo2.csproj|solutionrelative:lecture2demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E83458-9B28-4FBA-80DB-ADFD6A413E70}|Lecture2Demo2\\Lecture2Demo2.csproj|c:\\users\\ompatel\\documents\\github\\winter-2026-nait-\\cmpe2300 object oriented programming\\demos\\lecture2\\lecture2demo2\\lecture2demo2\\cstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E83458-9B28-4FBA-80DB-ADFD6A413E70}|Lecture2Demo2\\Lecture2Demo2.csproj|solutionrelative:lecture2demo2\\cstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CStudent.cs",
+              "DocumentMoniker": "C:\\Users\\ompatel\\Documents\\GitHub\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture2\\Lecture2Demo2\\Lecture2Demo2\\CStudent.cs",
+              "RelativeDocumentMoniker": "Lecture2Demo2\\CStudent.cs",
+              "ToolTip": "C:\\Users\\ompatel\\Documents\\GitHub\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture2\\Lecture2Demo2\\Lecture2Demo2\\CStudent.cs",
+              "RelativeToolTip": "Lecture2Demo2\\CStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:31:53.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ompatel\\Documents\\GitHub\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture2\\Lecture2Demo2\\Lecture2Demo2\\Program.cs",
+              "RelativeDocumentMoniker": "Lecture2Demo2\\Program.cs",
+              "ToolTip": "C:\\Users\\ompatel\\Documents\\GitHub\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture2\\Lecture2Demo2\\Lecture2Demo2\\Program.cs",
+              "RelativeToolTip": "Lecture2Demo2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T06:30:58.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
