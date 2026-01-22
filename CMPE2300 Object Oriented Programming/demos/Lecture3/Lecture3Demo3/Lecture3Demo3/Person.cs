@@ -12,6 +12,12 @@ namespace Lecture3Demo3
         private string? _lastName;
         private string? _fullName;
 
+        //static property
+        public static string Language
+        {
+            get => "English";
+
+        }
 
         //Propety for _firstName
         public string? FirstName

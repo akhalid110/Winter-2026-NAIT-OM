@@ -12,3 +12,4 @@ p1.FirstName = "Om";
 p1.LastName = "Patel";
 
 Console.WriteLine($"Name of p1 is {p1.FullName}");
+Console.WriteLine($"The Language of p1 is {Person.Language}");    //Using the class name for the static property
