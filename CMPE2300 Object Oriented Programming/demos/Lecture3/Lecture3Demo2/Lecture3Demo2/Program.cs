@@ -14,5 +14,9 @@ Console.WriteLine($"The name of the employee 1 is {emp.FullName}.");
 Employee emp2 = new Employee("Keya");
 Console.WriteLine($"The name of the employee 2 is {emp2.FullName}.");
 
+Employee emp3 = new Employee("Ban", "2005");
+Console.WriteLine($"employee 3 is {emp3}.");
+
+
 
 
