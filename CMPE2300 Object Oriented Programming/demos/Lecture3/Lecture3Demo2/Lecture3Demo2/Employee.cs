@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -8,7 +9,9 @@ namespace Lecture3Demo2
 {
     internal class Employee
     {
-
+        //The statci member belongs to the class and not to the instances
+        private static Random rand = new Random();
+        private int iNum;
         public string FullName
         {
             get;
@@ -24,12 +27,14 @@ namespace Lecture3Demo2
         public Employee(string name)
         {
             FullName = name;
+            iNum = rand.Next(100);
         }
 
         public Employee(string name , string Id)
         {
             FullName = name;
             this.Id = Id;
+            iNum = rand.Next(100);
         }
 
         //Leveraging the one-parameter constructor to create the default constructor
@@ -39,7 +44,7 @@ namespace Lecture3Demo2
         }
         public override string ToString()
         {
-            return $"Name:- {FullName} and Id:- {Id}";
+            return $"Name:- {FullName} and Id:- {Id} , INum: {iNum}";
         }
     }
 }
