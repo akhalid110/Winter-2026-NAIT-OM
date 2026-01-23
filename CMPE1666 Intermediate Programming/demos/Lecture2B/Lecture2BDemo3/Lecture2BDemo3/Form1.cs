@@ -19,10 +19,8 @@ namespace Lecture2BDemo3
 
         private void UI_Calculate_Btn_Click(object sender, EventArgs e)
         {
-            int v1;
-            int v2;
-            int.TryParse(UI_Value1_Tbx.Text,out v1);
-            int.TryParse(UI_Value2_Tbx.Text,out v2);
+            int.TryParse(UI_Value1_Tbx.Text,out int v1);
+            int.TryParse(UI_Value2_Tbx.Text,out int v2);
             int v3 = v1 + v2;
             UI_Sum_Tbx.Text = v3.ToString() ; 
         }
