@@ -1,0 +1,11 @@
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo8\Lecture2BDemo8\bin\Debug\Lecture2BDemo8.exe.config
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo8\Lecture2BDemo8\bin\Debug\Lecture2BDemo8.exe
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo8\Lecture2BDemo8\bin\Debug\Lecture2BDemo8.pdb
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo8\Lecture2BDemo8\obj\Debug\Lecture2BDemo8.csproj.AssemblyReference.cache
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo8\Lecture2BDemo8\obj\Debug\Lecture2BDemo8.Form1.resources
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo8\Lecture2BDemo8\obj\Debug\Lecture2BDemo8.Properties.Resources.resources
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo8\Lecture2BDemo8\obj\Debug\Lecture2BDemo8.csproj.GenerateResource.cache
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo8\Lecture2BDemo8\obj\Debug\Lecture2BDemo8.csproj.CoreCompileInputs.cache
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo8\Lecture2BDemo8\obj\Debug\Lecture2BDemo8.exe
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo8\Lecture2BDemo8\obj\Debug\Lecture2BDemo8.pdb
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo8\Lecture2BDemo8\obj\Debug\Lecture2BDemo8.exe.config

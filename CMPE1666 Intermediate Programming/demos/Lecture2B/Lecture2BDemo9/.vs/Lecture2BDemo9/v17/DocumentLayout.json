@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\opatel3\\Documents\\Winter 2026 (NAIT)\\Winter-2026-NAIT-\\CMPE1666 Intermediate Programming\\demos\\Lecture2B\\Lecture2BDemo9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69BE9B41-D21B-4669-B874-E8F5AB5FD987}|Lecture2BDemo9\\Lecture2BDemo9.csproj|c:\\users\\opatel3\\documents\\winter 2026 (nait)\\winter-2026-nait-\\cmpe1666 intermediate programming\\demos\\lecture2b\\lecture2bdemo9\\lecture2bdemo9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69BE9B41-D21B-4669-B874-E8F5AB5FD987}|Lecture2BDemo9\\Lecture2BDemo9.csproj|solutionrelative:lecture2bdemo9\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\opatel3\\Documents\\Winter 2026 (NAIT)\\Winter-2026-NAIT-\\CMPE1666 Intermediate Programming\\demos\\Lecture2B\\Lecture2BDemo9\\Lecture2BDemo9\\Form1.cs",
+              "RelativeDocumentMoniker": "Lecture2BDemo9\\Form1.cs",
+              "ToolTip": "C:\\Users\\opatel3\\Documents\\Winter 2026 (NAIT)\\Winter-2026-NAIT-\\CMPE1666 Intermediate Programming\\demos\\Lecture2B\\Lecture2BDemo9\\Lecture2BDemo9\\Form1.cs [Design]",
+              "RelativeToolTip": "Lecture2BDemo9\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T02:31:58.547Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
