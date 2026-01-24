@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{188518B8-C766-4880-916D-24BFED7A5A76}|Lecture2BDemo6\\Lecture2BDemo6.csproj|solutionrelative:lecture2bdemo6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{188518B8-C766-4880-916D-24BFED7A5A76}|Lecture2BDemo6\\Lecture2BDemo6.csproj|c:\\users\\opatel3\\documents\\winter 2026 (nait)\\winter-2026-nait-\\cmpe1666 intermediate programming\\demos\\lecture2b\\lecture2bdemo6\\lecture2bdemo6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{188518B8-C766-4880-916D-24BFED7A5A76}|Lecture2BDemo6\\Lecture2BDemo6.csproj|C:\\Users\\opatel3\\Documents\\Winter 2026 (NAIT)\\Winter-2026-NAIT-\\CMPE1666 Intermediate Programming\\demos\\Lecture2B\\Lecture2BDemo6\\lecture2bdemo6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{188518B8-C766-4880-916D-24BFED7A5A76}|Lecture2BDemo6\\Lecture2BDemo6.csproj|solutionrelative:lecture2bdemo6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Lecture2BDemo6\\Form1.cs",
               "ToolTip": "C:\\Users\\opatel3\\Documents\\Winter 2026 (NAIT)\\Winter-2026-NAIT-\\CMPE1666 Intermediate Programming\\demos\\Lecture2B\\Lecture2BDemo6\\Lecture2BDemo6\\Form1.cs",
               "RelativeToolTip": "Lecture2BDemo6\\Form1.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAawBoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAzwBgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-23T01:02:00.313Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\opatel3\\Documents\\Winter 2026 (NAIT)\\Winter-2026-NAIT-\\CMPE1666 Intermediate Programming\\demos\\Lecture2B\\Lecture2BDemo6\\Lecture2BDemo6\\Form1.cs [Design]",
               "RelativeToolTip": "Lecture2BDemo6\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T01:00:57.849Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-23T01:00:57.849Z"
             }
           ]
         }
