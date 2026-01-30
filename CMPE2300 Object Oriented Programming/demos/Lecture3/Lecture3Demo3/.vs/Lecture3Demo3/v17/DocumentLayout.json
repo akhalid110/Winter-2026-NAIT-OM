@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\opatel3\\Documents\\CMPE2300 - OOP\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture3\\Lecture3Demo3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{634C2402-1900-4F6A-9569-55A9EEA96068}|Lecture3Demo3\\Lecture3Demo3.csproj|c:\\users\\opatel3\\documents\\cmpe2300 - oop\\winter-2026-nait-\\cmpe2300 object oriented programming\\demos\\lecture3\\lecture3demo3\\lecture3demo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{634C2402-1900-4F6A-9569-55A9EEA96068}|Lecture3Demo3\\Lecture3Demo3.csproj|solutionrelative:lecture3demo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{634C2402-1900-4F6A-9569-55A9EEA96068}|Lecture3Demo3\\Lecture3Demo3.csproj|c:\\users\\opatel3\\documents\\cmpe2300 - oop\\winter-2026-nait-\\cmpe2300 object oriented programming\\demos\\lecture3\\lecture3demo3\\lecture3demo3\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{634C2402-1900-4F6A-9569-55A9EEA96068}|Lecture3Demo3\\Lecture3Demo3.csproj|solutionrelative:lecture3demo3\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{634C2402-1900-4F6A-9569-55A9EEA96068}|Lecture3Demo3\\Lecture3Demo3.csproj|c:\\users\\opatel3\\documents\\cmpe2300 - oop\\winter-2026-nait-\\cmpe2300 object oriented programming\\demos\\lecture3\\lecture3demo3\\lecture3demo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{634C2402-1900-4F6A-9569-55A9EEA96068}|Lecture3Demo3\\Lecture3Demo3.csproj|solutionrelative:lecture3demo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\opatel3\\Documents\\CMPE2300 - OOP\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture3\\Lecture3Demo3\\Lecture3Demo3\\Person.cs",
               "RelativeDocumentMoniker": "Lecture3Demo3\\Person.cs",
               "ToolTip": "C:\\Users\\opatel3\\Documents\\CMPE2300 - OOP\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture3\\Lecture3Demo3\\Lecture3Demo3\\Person.cs",
               "RelativeToolTip": "Lecture3Demo3\\Person.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T21:55:38.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\opatel3\\Documents\\CMPE2300 - OOP\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture3\\Lecture3Demo3\\Lecture3Demo3\\Program.cs",
               "RelativeDocumentMoniker": "Lecture3Demo3\\Program.cs",
               "ToolTip": "C:\\Users\\opatel3\\Documents\\CMPE2300 - OOP\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture3\\Lecture3Demo3\\Lecture3Demo3\\Program.cs",
               "RelativeToolTip": "Lecture3Demo3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T21:53:54.364Z",
               "EditorCaption": ""
