@@ -1,0 +1,11 @@
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo10\Lecture2BDemo10\bin\Debug\Lecture2BDemo10.exe.config
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo10\Lecture2BDemo10\bin\Debug\Lecture2BDemo10.exe
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo10\Lecture2BDemo10\bin\Debug\Lecture2BDemo10.pdb
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo10\Lecture2BDemo10\obj\Debug\Lecture2BDemo10.csproj.AssemblyReference.cache
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo10\Lecture2BDemo10\obj\Debug\Lecture2BDemo10.Form1.resources
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo10\Lecture2BDemo10\obj\Debug\Lecture2BDemo10.Properties.Resources.resources
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo10\Lecture2BDemo10\obj\Debug\Lecture2BDemo10.csproj.GenerateResource.cache
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo10\Lecture2BDemo10\obj\Debug\Lecture2BDemo10.csproj.CoreCompileInputs.cache
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo10\Lecture2BDemo10\obj\Debug\Lecture2BDemo10.exe
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo10\Lecture2BDemo10\obj\Debug\Lecture2BDemo10.pdb
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo10\Lecture2BDemo10\obj\Debug\Lecture2BDemo10.exe.config
