@@ -1,0 +1,15 @@
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo1\Lecture3Demo1\bin\Debug\net8.0\Lecture3Demo1.exe
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo1\Lecture3Demo1\bin\Debug\net8.0\Lecture3Demo1.deps.json
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo1\Lecture3Demo1\bin\Debug\net8.0\Lecture3Demo1.runtimeconfig.json
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo1\Lecture3Demo1\bin\Debug\net8.0\Lecture3Demo1.dll
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo1\Lecture3Demo1\bin\Debug\net8.0\Lecture3Demo1.pdb
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo1\Lecture3Demo1\obj\Debug\net8.0\Lecture3Demo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo1\Lecture3Demo1\obj\Debug\net8.0\Lecture3Demo1.AssemblyInfoInputs.cache
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo1\Lecture3Demo1\obj\Debug\net8.0\Lecture3Demo1.AssemblyInfo.cs
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo1\Lecture3Demo1\obj\Debug\net8.0\Lecture3Demo1.csproj.CoreCompileInputs.cache
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo1\Lecture3Demo1\obj\Debug\net8.0\Lecture3Demo1.sourcelink.json
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo1\Lecture3Demo1\obj\Debug\net8.0\Lecture3Demo1.dll
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo1\Lecture3Demo1\obj\Debug\net8.0\refint\Lecture3Demo1.dll
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo1\Lecture3Demo1\obj\Debug\net8.0\Lecture3Demo1.pdb
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo1\Lecture3Demo1\obj\Debug\net8.0\Lecture3Demo1.genruntimeconfig.cache
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo1\Lecture3Demo1\obj\Debug\net8.0\ref\Lecture3Demo1.dll
