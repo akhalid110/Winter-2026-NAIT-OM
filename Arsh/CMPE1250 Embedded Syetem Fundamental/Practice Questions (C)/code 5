@@ -1,0 +1,20 @@
+#include<stdio.h>
+int main(){
+    int x;
+    int y;
+    printf("enter a number=");
+    scanf("%d",&x);
+    printf("enter a number=");
+    scanf("%d",&y);
+    
+    printf("number 1 = %d\n",x);
+    printf("number 2 = %d\n",y);
+    
+   printf("%d==%d && %d<=%d is %d\n",x,y,x,y,x==y && x<=y);
+   printf("%d<=%d && %d<%d is %d\n",x,y,x,y,x<=y && x<y);
+   printf("%d==%d || %d>%d is %d\n",x,y,x,y,x==y || x>y);
+   printf("%d!=%d is %d\n",x,y,!(x>y));
+//   printf("%d>%d is %d\n",x,y,x>y);
+//   printf("%d<%d is %d\n",x,y,x<y);
+   
+}

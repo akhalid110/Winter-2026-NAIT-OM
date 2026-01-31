@@ -1,0 +1,20 @@
+#include<stdio.h>
+int main(){
+    int x;
+    int y;
+    
+    printf("enter a number\n");
+    scanf("%d",&x);
+    printf("enter a number\n");
+    scanf("%d",&y);
+    
+    int a=1;
+    int b=0;
+    
+    while(b<y) {
+        a=a*x;
+        b++;
+    }
+    printf("%d raised to the power of %d is %d",x,y,a);
+   
+}

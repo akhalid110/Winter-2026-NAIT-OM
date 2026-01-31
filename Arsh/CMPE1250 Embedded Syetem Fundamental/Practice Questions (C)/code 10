@@ -1,0 +1,20 @@
+#include<stdio.h>
+int main(){
+    char x;
+    int y;
+   
+    printf("Citizenship :");
+    scanf("%c",&x);
+    printf("enter an age :");
+    scanf("%d",&y);
+    
+    
+   if(x == 'I'){
+      if(y >= 18){
+          printf("eligible");
+      }
+   }
+   else if(x != 'I'){
+       printf("not eligible");
+   }
+}

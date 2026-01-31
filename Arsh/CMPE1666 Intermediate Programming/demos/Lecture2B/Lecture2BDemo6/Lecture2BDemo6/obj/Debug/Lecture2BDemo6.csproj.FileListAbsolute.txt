@@ -1,0 +1,11 @@
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo6\Lecture2BDemo6\bin\Debug\Lecture2BDemo6.exe.config
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo6\Lecture2BDemo6\bin\Debug\Lecture2BDemo6.exe
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo6\Lecture2BDemo6\bin\Debug\Lecture2BDemo6.pdb
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo6\Lecture2BDemo6\obj\Debug\Lecture2BDemo6.csproj.AssemblyReference.cache
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo6\Lecture2BDemo6\obj\Debug\Lecture2BDemo6.Form1.resources
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo6\Lecture2BDemo6\obj\Debug\Lecture2BDemo6.Properties.Resources.resources
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo6\Lecture2BDemo6\obj\Debug\Lecture2BDemo6.csproj.GenerateResource.cache
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo6\Lecture2BDemo6\obj\Debug\Lecture2BDemo6.csproj.CoreCompileInputs.cache
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo6\Lecture2BDemo6\obj\Debug\Lecture2BDemo6.exe
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo6\Lecture2BDemo6\obj\Debug\Lecture2BDemo6.pdb
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture2B\Lecture2BDemo6\Lecture2BDemo6\obj\Debug\Lecture2BDemo6.exe.config

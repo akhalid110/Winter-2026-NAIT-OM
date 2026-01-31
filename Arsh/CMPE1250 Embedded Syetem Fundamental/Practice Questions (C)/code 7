@@ -1,0 +1,19 @@
+#include<stdio.h>
+int main(){
+    int x;
+    int y;
+    printf("enter a number=");
+    scanf("%d",&x);
+    printf("enter a number=");
+    scanf("%d",&y);
+    
+    
+   if(x>y){
+       printf("x=%d is maximum ",x);
+   }
+   else {
+       printf("y=%d is maximum",y);
+   }
+   
+   
+}

@@ -1,0 +1,28 @@
+#include<stdio.h>
+int main(){
+    int x;
+    int y;
+    printf("enter a number=");
+    scanf("%d",&x);
+    printf("enter a number=");
+    scanf("%d",&y);
+    
+    printf("number 1 = %d\n",x);
+    printf("number 2 = %d\n",y);
+    
+   int a=x+y;
+   printf("add a=%d\n",a);
+   
+   int b=x-y;
+   printf("subtracttion b=%d\n",b);
+   
+   int c=x*y;
+   printf("multiplication c=%d\n",c);
+   
+   int d=x/y;
+   printf("division d=%d\n",d);
+   
+   int e=x%y;
+   printf("modulus e=%d\n",e);
+   
+}

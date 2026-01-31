@@ -1,0 +1,11 @@
+C:\Users\opatel3\Downloads\Lecture2Demo2\Lecture2Demo2\bin\Debug\Lecture2Demo2.exe.config
+C:\Users\opatel3\Downloads\Lecture2Demo2\Lecture2Demo2\bin\Debug\Lecture2Demo2.exe
+C:\Users\opatel3\Downloads\Lecture2Demo2\Lecture2Demo2\bin\Debug\Lecture2Demo2.pdb
+C:\Users\opatel3\Downloads\Lecture2Demo2\Lecture2Demo2\obj\Debug\Lecture2Demo2.csproj.AssemblyReference.cache
+C:\Users\opatel3\Downloads\Lecture2Demo2\Lecture2Demo2\obj\Debug\Lecture2Demo2.Form1.resources
+C:\Users\opatel3\Downloads\Lecture2Demo2\Lecture2Demo2\obj\Debug\Lecture2Demo2.Properties.Resources.resources
+C:\Users\opatel3\Downloads\Lecture2Demo2\Lecture2Demo2\obj\Debug\Lecture2Demo2.csproj.GenerateResource.cache
+C:\Users\opatel3\Downloads\Lecture2Demo2\Lecture2Demo2\obj\Debug\Lecture2Demo2.csproj.CoreCompileInputs.cache
+C:\Users\opatel3\Downloads\Lecture2Demo2\Lecture2Demo2\obj\Debug\Lecture2Demo2.exe
+C:\Users\opatel3\Downloads\Lecture2Demo2\Lecture2Demo2\obj\Debug\Lecture2Demo2.pdb
+C:\Users\opatel3\Downloads\Lecture2Demo2\Lecture2Demo2\obj\Debug\Lecture2Demo2.exe.config

@@ -1,0 +1,13 @@
+#include<stdio.h>
+int main(){
+    int x=1;
+    float y=2.1;
+    char z='a';
+    printf("%d\n%f\n%c\n",x,y,z);
+}
+
+
+OUTPUT:=
+1
+2.100000
+a

@@ -1,0 +1,10 @@
+C:\Users\adhillon45\Desktop\Demo GDI\Demo GDI\bin\Debug\Demo GDI.exe.config
+C:\Users\adhillon45\Desktop\Demo GDI\Demo GDI\bin\Debug\Demo GDI.exe
+C:\Users\adhillon45\Desktop\Demo GDI\Demo GDI\bin\Debug\Demo GDI.pdb
+C:\Users\adhillon45\Desktop\Demo GDI\Demo GDI\bin\Debug\GDIDrawer.dll
+C:\Users\adhillon45\Desktop\Demo GDI\Demo GDI\obj\Debug\Demo GDI.csproj.AssemblyReference.cache
+C:\Users\adhillon45\Desktop\Demo GDI\Demo GDI\obj\Debug\Demo GDI.csproj.CoreCompileInputs.cache
+C:\Users\adhillon45\Desktop\Demo GDI\Demo GDI\obj\Debug\Demo GDI.csproj.Up2Date
+C:\Users\adhillon45\Desktop\Demo GDI\Demo GDI\obj\Debug\Demo GDI.exe
+C:\Users\adhillon45\Desktop\Demo GDI\Demo GDI\obj\Debug\Demo GDI.pdb
+C:\Users\adhillon45\Desktop\Demo GDI\Demo GDI\obj\Debug\Demo GDI.exe.config

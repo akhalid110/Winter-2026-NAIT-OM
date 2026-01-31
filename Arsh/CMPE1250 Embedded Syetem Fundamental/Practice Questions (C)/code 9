@@ -1,0 +1,21 @@
+#include<stdio.h>
+int main(){
+    char x='a';
+    char y='b';
+    char z='a';
+     
+  if(x==y && y==z){
+      printf("All are same");
+   }
+   else {
+       if(x==y){
+           printf("x is equal to y");
+       }
+       if(y==z){
+           printf("y is equal to z.");
+       }
+       if(z==x){
+           printf("x is equal to z.");
+   }
+  }
+}
