@@ -1,0 +1,11 @@
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo5\Lecture3Demo5\bin\Debug\Lecture3Demo5.exe.config
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo5\Lecture3Demo5\bin\Debug\Lecture3Demo5.exe
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo5\Lecture3Demo5\bin\Debug\Lecture3Demo5.pdb
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo5\Lecture3Demo5\obj\Debug\Lecture3Demo5.csproj.AssemblyReference.cache
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo5\Lecture3Demo5\obj\Debug\Lecture3Demo5.Form1.resources
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo5\Lecture3Demo5\obj\Debug\Lecture3Demo5.Properties.Resources.resources
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo5\Lecture3Demo5\obj\Debug\Lecture3Demo5.csproj.GenerateResource.cache
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo5\Lecture3Demo5\obj\Debug\Lecture3Demo5.csproj.CoreCompileInputs.cache
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo5\Lecture3Demo5\obj\Debug\Lecture3Demo5.exe
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo5\Lecture3Demo5\obj\Debug\Lecture3Demo5.pdb
+C:\Users\opatel3\Documents\Winter 2026 (NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\demos\Lecture3\Lecture3Demo5\Lecture3Demo5\obj\Debug\Lecture3Demo5.exe.config
