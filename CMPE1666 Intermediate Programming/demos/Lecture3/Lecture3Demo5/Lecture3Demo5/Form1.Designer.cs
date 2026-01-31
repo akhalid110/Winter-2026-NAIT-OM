@@ -53,6 +53,7 @@
             this.UI_Display_Lbx.Name = "UI_Display_Lbx";
             this.UI_Display_Lbx.Size = new System.Drawing.Size(209, 340);
             this.UI_Display_Lbx.TabIndex = 0;
+            this.UI_Display_Lbx.SelectedIndexChanged += new System.EventHandler(this.UI_Display_Lbx_SelectedIndexChanged);
             // 
             // UI_MaxID_Btn
             // 
@@ -85,6 +86,7 @@
             this.UI_ModifyStudent_Btn.TabIndex = 3;
             this.UI_ModifyStudent_Btn.Text = "Modify Student";
             this.UI_ModifyStudent_Btn.UseVisualStyleBackColor = true;
+            this.UI_ModifyStudent_Btn.Click += new System.EventHandler(this.UI_ModifyStudent_Btn_Click);
             // 
             // UI_MaxID_Tbx
             // 

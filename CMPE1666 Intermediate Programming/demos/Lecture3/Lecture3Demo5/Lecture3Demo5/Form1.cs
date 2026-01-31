@@ -69,13 +69,17 @@ namespace Lecture3Demo5
                 s._LastName = LName[i];
 
                 students.Add(s);
+                UI_Display_Lbx.Items.Add(StudentToString(s));
+
             }
+
         }
 
         private void UI_MaxID_Btn_Click(object sender, EventArgs e)
         {
             Student maxStu = MaxId(students);
             UI_MaxID_Tbx.Text = maxStu._studentId.ToString();
+            UI_StudentID_Tbx.Text = maxStu._studentId.ToString();
             UI_FirstName_Tbx.Text = maxStu._FirstName;
             UI_LastName_Tbx.Text = maxStu._LastName;
 
@@ -85,8 +89,47 @@ namespace Lecture3Demo5
         {
             Student minStu = MinId(students);
             UI_MinID_Tbx.Text = minStu._studentId.ToString();
+            UI_StudentID_Tbx.Text = minStu._studentId.ToString();
             UI_FirstName_Tbx.Text = minStu._FirstName;
             UI_LastName_Tbx.Text = minStu._LastName;
+        }
+
+        private void UI_Display_Lbx_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            int index = UI_Display_Lbx.SelectedIndex;
+
+            if (index == -1)
+                return;
+
+            Student selectedStudent = students[index];
+            UI_StudentID_Tbx.Text = selectedStudent._studentId.ToString();
+            UI_FirstName_Tbx.Text = selectedStudent._FirstName;
+            UI_LastName_Tbx.Text = selectedStudent._LastName;
+            
+        }
+
+        private void UI_ModifyStudent_Btn_Click(object sender, EventArgs e)
+        {
+            int index = UI_Display_Lbx.SelectedIndex;
+
+            if (index == -1)
+                return;
+
+            Student updatedStudent = students[index];
+
+            updatedStudent._FirstName = UI_FirstName_Tbx.Text;
+            updatedStudent._LastName = UI_LastName_Tbx.Text;
+
+            students[index] = updatedStudent;
+
+            UI_Display_Lbx.Items.Clear();
+
+            foreach (Student s in students)
+            {
+                UI_Display_Lbx.Items.Add(StudentToString(s));
+            }
+
+            UI_Display_Lbx.SelectedIndex = index;
         }
     }
 }
