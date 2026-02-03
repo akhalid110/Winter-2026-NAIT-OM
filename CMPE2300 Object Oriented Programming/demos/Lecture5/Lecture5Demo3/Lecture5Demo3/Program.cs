@@ -38,7 +38,7 @@ class box
         // and also for null
         if (!(obj is box other)) return false;
 
-        //test for equaloity of the member values 
+        //test for equality of the member values 
         return (this._length == other._length && this._width == other._width);
     }
 
