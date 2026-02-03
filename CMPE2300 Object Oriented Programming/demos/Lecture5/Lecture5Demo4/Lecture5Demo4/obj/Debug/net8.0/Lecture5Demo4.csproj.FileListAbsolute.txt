@@ -1,0 +1,15 @@
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture5\Lecture5Demo4\Lecture5Demo4\bin\Debug\net8.0\Lecture5Demo4.exe
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture5\Lecture5Demo4\Lecture5Demo4\bin\Debug\net8.0\Lecture5Demo4.deps.json
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture5\Lecture5Demo4\Lecture5Demo4\bin\Debug\net8.0\Lecture5Demo4.runtimeconfig.json
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture5\Lecture5Demo4\Lecture5Demo4\bin\Debug\net8.0\Lecture5Demo4.dll
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture5\Lecture5Demo4\Lecture5Demo4\bin\Debug\net8.0\Lecture5Demo4.pdb
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture5\Lecture5Demo4\Lecture5Demo4\obj\Debug\net8.0\Lecture5Demo4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture5\Lecture5Demo4\Lecture5Demo4\obj\Debug\net8.0\Lecture5Demo4.AssemblyInfoInputs.cache
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture5\Lecture5Demo4\Lecture5Demo4\obj\Debug\net8.0\Lecture5Demo4.AssemblyInfo.cs
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture5\Lecture5Demo4\Lecture5Demo4\obj\Debug\net8.0\Lecture5Demo4.csproj.CoreCompileInputs.cache
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture5\Lecture5Demo4\Lecture5Demo4\obj\Debug\net8.0\Lecture5Demo4.sourcelink.json
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture5\Lecture5Demo4\Lecture5Demo4\obj\Debug\net8.0\Lecture5Demo4.dll
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture5\Lecture5Demo4\Lecture5Demo4\obj\Debug\net8.0\refint\Lecture5Demo4.dll
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture5\Lecture5Demo4\Lecture5Demo4\obj\Debug\net8.0\Lecture5Demo4.pdb
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture5\Lecture5Demo4\Lecture5Demo4\obj\Debug\net8.0\Lecture5Demo4.genruntimeconfig.cache
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture5\Lecture5Demo4\Lecture5Demo4\obj\Debug\net8.0\ref\Lecture5Demo4.dll

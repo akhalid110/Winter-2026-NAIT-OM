@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lecture5Demo4/1.0.0": {
+        "runtime": {
+          "Lecture5Demo4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lecture5Demo4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

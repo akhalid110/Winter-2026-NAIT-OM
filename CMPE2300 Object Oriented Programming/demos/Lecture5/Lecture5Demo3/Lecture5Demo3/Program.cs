@@ -15,7 +15,7 @@ class Program
 
         Console.WriteLine($"one.Equals(two): {one.Equals(two)}");
         Console.WriteLine($"one.Equals(three): {one.Equals(three)}");
-        
+
     }
 }
 
