@@ -27,7 +27,7 @@ namespace Lecture6Demo1
 
         public override string ToString()
         {
-            return $"Width : {_width} and Height : {_height}";
+            return $"({_width},{_height})";
         }
         public int CompareTo(object obj)
         {
