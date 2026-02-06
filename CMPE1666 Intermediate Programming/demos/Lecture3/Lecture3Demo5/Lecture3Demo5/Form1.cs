@@ -105,7 +105,6 @@ namespace Lecture3Demo5
             UI_StudentID_Tbx.Text = selectedStudent._studentId.ToString();
             UI_FirstName_Tbx.Text = selectedStudent._FirstName;
             UI_LastName_Tbx.Text = selectedStudent._LastName;
-            
         }
 
         private void UI_ModifyStudent_Btn_Click(object sender, EventArgs e)

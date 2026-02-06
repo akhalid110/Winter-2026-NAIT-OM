@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{7ECD710F-3466-48CF-976C-716BE44E6090}|Lecture3Demo5\\Lecture3Demo5.csproj|solutionrelative:lecture3demo5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7ECD710F-3466-48CF-976C-716BE44E6090}|Lecture3Demo5\\Lecture3Demo5.csproj|c:\\users\\opatel3\\documents\\winter 2026 (nait)\\winter-2026-nait-\\cmpe1666 intermediate programming\\demos\\lecture3\\lecture3demo5\\lecture3demo5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7ECD710F-3466-48CF-976C-716BE44E6090}|Lecture3Demo5\\Lecture3Demo5.csproj|C:\\Users\\opatel3\\Documents\\Winter 2026 (NAIT)\\Winter-2026-NAIT-\\CMPE1666 Intermediate Programming\\demos\\Lecture3\\Lecture3Demo5\\lecture3demo5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7ECD710F-3466-48CF-976C-716BE44E6090}|Lecture3Demo5\\Lecture3Demo5.csproj|solutionrelative:lecture3demo5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Lecture3Demo5\\Form1.cs",
               "ToolTip": "C:\\Users\\opatel3\\Documents\\Winter 2026 (NAIT)\\Winter-2026-NAIT-\\CMPE1666 Intermediate Programming\\demos\\Lecture3\\Lecture3Demo5\\Lecture3Demo5\\Form1.cs",
               "RelativeToolTip": "Lecture3Demo5\\Form1.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAwwGUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAqwH0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-31T02:11:11.893Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\opatel3\\Documents\\Winter 2026 (NAIT)\\Winter-2026-NAIT-\\CMPE1666 Intermediate Programming\\demos\\Lecture3\\Lecture3Demo5\\Lecture3Demo5\\Form1.cs [Design]",
               "RelativeToolTip": "Lecture3Demo5\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T19:20:44.048Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-03T19:20:44.048Z"
             }
           ]
         }
