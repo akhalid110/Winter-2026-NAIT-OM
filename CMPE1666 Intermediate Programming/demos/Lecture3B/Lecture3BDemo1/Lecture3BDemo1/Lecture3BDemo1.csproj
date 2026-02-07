@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1AD560CC-2759-4C5F-9F13-B1652EF5D5C8}</ProjectGuid>
+    <ProjectGuid>{693DF6A8-B7D3-4168-B79F-03596D7C434D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Lecture3BDemo1</RootNamespace>
     <AssemblyName>Lecture3BDemo1</AssemblyName>

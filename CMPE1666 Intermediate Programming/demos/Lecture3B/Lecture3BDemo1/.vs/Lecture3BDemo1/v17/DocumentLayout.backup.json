@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\opatel3\\Documents\\Winter 2026 (NAIT)\\Winter-2026-NAIT-\\CMPE1666 Intermediate Programming\\demos\\Lecture3B\\Lecture3BDemo1\\",
+  "WorkspaceRootPath": "C:\\Users\\oveeyenm\\Desktop\\CMPE1666_1251\\CMPE1666_1251\\Lecture3BDemo1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AD560CC-2759-4C5F-9F13-B1652EF5D5C8}|Lecture3BDemo1\\Lecture3BDemo1.csproj|c:\\users\\opatel3\\documents\\winter 2026 (nait)\\winter-2026-nait-\\cmpe1666 intermediate programming\\demos\\lecture3b\\lecture3bdemo1\\lecture3bdemo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1AD560CC-2759-4C5F-9F13-B1652EF5D5C8}|Lecture3BDemo1\\Lecture3BDemo1.csproj|solutionrelative:lecture3bdemo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{693DF6A8-B7D3-4168-B79F-03596D7C434D}|Lecture3BDemo1\\Lecture3BDemo1.csproj|c:\\users\\oveeyenm\\desktop\\cmpe1666_1251\\cmpe1666_1251\\lecture3bdemo1\\lecture3bdemo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693DF6A8-B7D3-4168-B79F-03596D7C434D}|Lecture3BDemo1\\Lecture3BDemo1.csproj|solutionrelative:lecture3bdemo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693DF6A8-B7D3-4168-B79F-03596D7C434D}|Lecture3BDemo1\\Lecture3BDemo1.csproj|C:\\Users\\oveeyenm\\Desktop\\CMPE1666_1251\\CMPE1666_1251\\Lecture3BDemo1\\lecture3bdemo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{693DF6A8-B7D3-4168-B79F-03596D7C434D}|Lecture3BDemo1\\Lecture3BDemo1.csproj|solutionrelative:lecture3bdemo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +23,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\opatel3\\Documents\\Winter 2026 (NAIT)\\Winter-2026-NAIT-\\CMPE1666 Intermediate Programming\\demos\\Lecture3B\\Lecture3BDemo1\\Lecture3BDemo1\\Form1.cs",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\oveeyenm\\Desktop\\CMPE1666_1251\\CMPE1666_1251\\Lecture3BDemo1\\Lecture3BDemo1\\Form1.cs",
               "RelativeDocumentMoniker": "Lecture3BDemo1\\Form1.cs",
-              "ToolTip": "C:\\Users\\opatel3\\Documents\\Winter 2026 (NAIT)\\Winter-2026-NAIT-\\CMPE1666 Intermediate Programming\\demos\\Lecture3B\\Lecture3BDemo1\\Lecture3BDemo1\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\oveeyenm\\Desktop\\CMPE1666_1251\\CMPE1666_1251\\Lecture3BDemo1\\Lecture3BDemo1\\Form1.cs",
+              "RelativeToolTip": "Lecture3BDemo1\\Form1.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T20:15:33.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\oveeyenm\\Desktop\\CMPE1666_1251\\CMPE1666_1251\\Lecture3BDemo1\\Lecture3BDemo1\\Form1.cs",
+              "RelativeDocumentMoniker": "Lecture3BDemo1\\Form1.cs",
+              "ToolTip": "C:\\Users\\oveeyenm\\Desktop\\CMPE1666_1251\\CMPE1666_1251\\Lecture3BDemo1\\Lecture3BDemo1\\Form1.cs [Design]",
               "RelativeToolTip": "Lecture3BDemo1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T01:19:34.382Z",
+              "WhenOpened": "2025-10-06T20:15:33.175Z",
               "EditorCaption": " [Design]"
             }
           ]
