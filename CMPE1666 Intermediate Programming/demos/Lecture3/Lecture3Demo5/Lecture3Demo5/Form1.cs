@@ -109,6 +109,7 @@ namespace Lecture3Demo5
 
         private void UI_ModifyStudent_Btn_Click(object sender, EventArgs e)
         {
+
             int index = UI_Display_Lbx.SelectedIndex;
 
             if (index == -1)
@@ -129,6 +130,8 @@ namespace Lecture3Demo5
             }
 
             UI_Display_Lbx.SelectedIndex = index;
+            UI_FirstName_Tbx.Clear();
+            UI_LastName_Tbx.Clear();
         }
     }
 }
