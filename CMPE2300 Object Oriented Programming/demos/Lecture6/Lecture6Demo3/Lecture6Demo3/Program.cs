@@ -21,3 +21,11 @@ Console.WriteLine($"Initial Order of instances: {string.Join(",",boxes)}");
 boxes.Sort();
 
 Console.WriteLine($" Order of instances after default sorting: {string.Join(",", boxes)}");
+
+boxes.Sort(CBox.CompareOnWidth);
+//using the CompareOnWidth method for sorting 
+Console.WriteLine($"Order of instances after sorting using CompareOnWidth: {string.Join(",", boxes)}");
+
+boxes.Sort(CBox.CompareOnHeight);
+//using the CompareOnHeight method for sorting 
+Console.WriteLine($"Order of instances after sorting using CompareOnHeight: {string.Join(",", boxes)}");
