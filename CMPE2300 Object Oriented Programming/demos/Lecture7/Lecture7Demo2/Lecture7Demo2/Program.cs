@@ -16,8 +16,12 @@ CBox box8 = new CBox(8,3);
 List<CBox> list = new List<CBox> {box1, box2, box3, box4, box5, box6, box7, box8 };
 
 Console.WriteLine($"Initial list of th boxes : {string.Join(", ", list)}");
-Console.WriteLine($"list of the boxes after filtering with predicate IsBig: {string.Join(", ", list.Find(CBox.IsBig))}");
-Console.WriteLine($"list of the boxes after filtering with predicate IsBig: {string.Join(", ", list.FindAll(CBox.IsBig))}");
-Console.WriteLine($"list of the boxes after filtering with predicate IsBig: {string.Join(", ", list.FindAll(delegate(CBox box) { return box.Area > 20; }))}");
+Console.WriteLine($"list of the boxes : {string.Join(", ", list.Find(CBox.IsBig))}");
+Console.WriteLine($"list of the boxes : {string.Join(", ", list.FindAll(CBox.IsBig))}");
+int threshold = 20;
+Console.WriteLine($"list of the boxes Area > {threshold}: {string.Join(", ", list.FindAll(delegate(CBox box) { return box.Area > threshold; }))}");
+threshold = 10;
+Console.WriteLine($"list of the boxes after filtering with a lambda expression for area > {threshold} : {string.Join(", ", list.FindAll(box=>box.Area > threshold))}");
+
 
 
