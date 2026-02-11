@@ -2,6 +2,7 @@
 //Console.WriteLine("Hello, World!");
 
 using Lecture6Demo1;
+using Lecture6Demo3;
 
 CBox cbox1 = new CBox(7, 9);
 CBox cbox2 = new CBox(10, 7);
@@ -29,3 +30,20 @@ Console.WriteLine($"Order of instances after sorting using CompareOnWidth: {stri
 boxes.Sort(CBox.CompareOnHeight);
 //using the CompareOnHeight method for sorting 
 Console.WriteLine($"Order of instances after sorting using CompareOnHeight: {string.Join(",", boxes)}");
+
+
+//To Test our sorting with the MyCompareClass
+
+MyCompareClass comp = new MyCompareClass();
+
+Console.WriteLine($"Sorting our List by the comp object using default SortType, we obtain : ");
+boxes.Sort(comp);
+Console.WriteLine($"{string.Join(",", boxes)}");
+
+//We'll change the SortType value of comp, then sort again to observe how the Sorting order changes 
+comp.SortType = MyCompareClass.ESortType.Descending;
+Console.WriteLine($"Sorting our List by the comp object using default SortType, we obtain : ");
+boxes.Sort(comp);
+Console.WriteLine($"{string.Join(",", boxes)}");
+
+
