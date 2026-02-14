@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{8FBE62D3-CE1F-4CB2-BF3D-89AA03341906}|Lecture4Demo4\\Lecture4Demo4.csproj|solutionrelative:lecture4demo4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FBE62D3-CE1F-4CB2-BF3D-89AA03341906}|Lecture4Demo4\\Lecture4Demo4.csproj|c:\\users\\opatel3\\documents\\winter 2026 (nait)\\winter-2026-nait-\\cmpe1666 intermediate programming\\demos\\lecture4\\lecture4demo4\\lecture4demo4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8FBE62D3-CE1F-4CB2-BF3D-89AA03341906}|Lecture4Demo4\\Lecture4Demo4.csproj|C:\\Users\\opatel3\\Documents\\Winter 2026 (NAIT)\\Winter-2026-NAIT-\\CMPE1666 Intermediate Programming\\demos\\Lecture4\\Lecture4Demo4\\lecture4demo4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8FBE62D3-CE1F-4CB2-BF3D-89AA03341906}|Lecture4Demo4\\Lecture4Demo4.csproj|solutionrelative:lecture4demo4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,9 +26,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\opatel3\\Documents\\Winter 2026 (NAIT)\\Winter-2026-NAIT-\\CMPE1666 Intermediate Programming\\demos\\Lecture4\\Lecture4Demo4\\Lecture4Demo4\\Form1.cs",
               "RelativeDocumentMoniker": "Lecture4Demo4\\Form1.cs",
-              "ToolTip": "C:\\Users\\opatel3\\Documents\\Winter 2026 (NAIT)\\Winter-2026-NAIT-\\CMPE1666 Intermediate Programming\\demos\\Lecture4\\Lecture4Demo4\\Lecture4Demo4\\Form1.cs*",
-              "RelativeToolTip": "Lecture4Demo4\\Form1.cs*",
-              "ViewState": "AgIAABYAAAAAAAAAAAAkwCIAAAAoAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\opatel3\\Documents\\Winter 2026 (NAIT)\\Winter-2026-NAIT-\\CMPE1666 Intermediate Programming\\demos\\Lecture4\\Lecture4Demo4\\Lecture4Demo4\\Form1.cs",
+              "RelativeToolTip": "Lecture4Demo4\\Form1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwDQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-14T02:58:12.751Z",
               "EditorCaption": ""
@@ -39,11 +39,10 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\opatel3\\Documents\\Winter 2026 (NAIT)\\Winter-2026-NAIT-\\CMPE1666 Intermediate Programming\\demos\\Lecture4\\Lecture4Demo4\\Lecture4Demo4\\Form1.cs",
               "RelativeDocumentMoniker": "Lecture4Demo4\\Form1.cs",
-              "ToolTip": "C:\\Users\\opatel3\\Documents\\Winter 2026 (NAIT)\\Winter-2026-NAIT-\\CMPE1666 Intermediate Programming\\demos\\Lecture4\\Lecture4Demo4\\Lecture4Demo4\\Form1.cs [Design]*",
-              "RelativeToolTip": "Lecture4Demo4\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\opatel3\\Documents\\Winter 2026 (NAIT)\\Winter-2026-NAIT-\\CMPE1666 Intermediate Programming\\demos\\Lecture4\\Lecture4Demo4\\Lecture4Demo4\\Form1.cs [Design]",
+              "RelativeToolTip": "Lecture4Demo4\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T02:41:44.109Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-02-14T02:41:44.109Z"
             }
           ]
         }
