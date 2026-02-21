@@ -12,3 +12,18 @@ E:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\Lecture1Demo4
 E:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\Lecture1Demo4\Lecture1Demo4\obj\Debug\net8.0\Lecture1Demo4.pdb
 E:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\Lecture1Demo4\Lecture1Demo4\obj\Debug\net8.0\Lecture1Demo4.genruntimeconfig.cache
 E:\NAIT (Winter 2026)\cmpe2300 - object oriented programming\demos\Lecture1Demo4\Lecture1Demo4\obj\Debug\net8.0\ref\Lecture1Demo4.dll
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture1Demo4\Lecture1Demo4\bin\Debug\net8.0\Lecture1Demo4.exe
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture1Demo4\Lecture1Demo4\bin\Debug\net8.0\Lecture1Demo4.deps.json
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture1Demo4\Lecture1Demo4\bin\Debug\net8.0\Lecture1Demo4.runtimeconfig.json
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture1Demo4\Lecture1Demo4\bin\Debug\net8.0\Lecture1Demo4.dll
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture1Demo4\Lecture1Demo4\bin\Debug\net8.0\Lecture1Demo4.pdb
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture1Demo4\Lecture1Demo4\obj\Debug\net8.0\Lecture1Demo4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture1Demo4\Lecture1Demo4\obj\Debug\net8.0\Lecture1Demo4.AssemblyInfoInputs.cache
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture1Demo4\Lecture1Demo4\obj\Debug\net8.0\Lecture1Demo4.AssemblyInfo.cs
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture1Demo4\Lecture1Demo4\obj\Debug\net8.0\Lecture1Demo4.csproj.CoreCompileInputs.cache
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture1Demo4\Lecture1Demo4\obj\Debug\net8.0\Lecture1Demo4.sourcelink.json
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture1Demo4\Lecture1Demo4\obj\Debug\net8.0\Lecture1Demo4.dll
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture1Demo4\Lecture1Demo4\obj\Debug\net8.0\refint\Lecture1Demo4.dll
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture1Demo4\Lecture1Demo4\obj\Debug\net8.0\Lecture1Demo4.pdb
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture1Demo4\Lecture1Demo4\obj\Debug\net8.0\Lecture1Demo4.genruntimeconfig.cache
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture1Demo4\Lecture1Demo4\obj\Debug\net8.0\ref\Lecture1Demo4.dll

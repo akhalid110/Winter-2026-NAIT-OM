@@ -8,10 +8,10 @@
 string name1 = "Hello";
 string name2 = name1;
 
-Console.WriteLine($"Object.ReferenceEquaals(name1,name2): {object.ReferenceEquals(name1,name2)}");
-name2 += "World"; //modification of name1
+Console.WriteLine($"Object.ReferenceEquals(name1,name2): {object.ReferenceEquals(name1,name2)}");
+name1 += "World"; //modification of name1
 
-Console.WriteLine($"After modification of name1 - Object.ReferenceEquaals(name1,name2): {object.ReferenceEquals(name1, name2)}");
+Console.WriteLine($"After modification of name1 - Object.ReferenceEquals(name1,name2): {object.ReferenceEquals(name1, name2)}");
 
 Console.WriteLine();
 Console.WriteLine();
