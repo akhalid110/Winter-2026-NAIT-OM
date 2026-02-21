@@ -78,7 +78,7 @@ iList.Add(5);
 //creating List with 4 starting elements
 List<int> mList = new List<int>() { 1, 2, 3, 4 };
 
-//Noteh the code below creates the new reference variable that also points to the same object as mList
+//Note the code below creates the new reference variable that also points to the same object as mList
 List<int> dupList = mList;
 
 Console.WriteLine($"Initial Lists: {string.Join(",", iList)}");
@@ -103,7 +103,7 @@ Console.WriteLine();
 
 //modifying copyList[3] to 100. We note that this doesn't affect mList
 copyList[3] = 100;
-Console.WriteLine($"After changing the 3rd element of the dupList");
+Console.WriteLine($"After changing the 3rd element of the copyList");
 Console.WriteLine($"mList: {string.Join(",", mList)}");
 Console.WriteLine($"copyList: {string.Join(",", copyList)}");
 Console.WriteLine();
