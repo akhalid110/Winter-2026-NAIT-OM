@@ -11,7 +11,7 @@ T2 = T1;
 
 Console.WriteLine("Initial values in T1 and T2:");
 Console.WriteLine($"T1: num1 = {T1.num1}, num2 = {T1.num2}, intArray: {string.Join(",",T1.intArray)}");
-Console.WriteLine($"T1: num1 = {T2.num1}, num2 = {T2.num2}, intArray: {string.Join(",", T2.intArray)}");
+Console.WriteLine($"T2: num1 = {T2.num1}, num2 = {T2.num2}, intArray: {string.Join(",", T2.intArray)}");
 Console.WriteLine($"T1 == T2: {T1.Equals(T2)}");
 Console.WriteLine();
 
@@ -20,7 +20,7 @@ T2.num1 = 5;
 T2.num2 = 7;
 Console.WriteLine("After modifying the first two members of T2:");
 Console.WriteLine($"T1: num1 = {T1.num1}, num2 = {T1.num2}, intArray: {string.Join(",", T1.intArray)}");
-Console.WriteLine($"T1: num1 = {T2.num1}, num2 = {T2.num2}, intArray: {string.Join(",", T2.intArray)}");
+Console.WriteLine($"T2: num1 = {T2.num1}, num2 = {T2.num2}, intArray: {string.Join(",", T2.intArray)}");
 Console.WriteLine($"T1 == T2: {T1.Equals(T2)}");
 Console.WriteLine();
         
@@ -29,7 +29,7 @@ T2.intArray[3] = 50;
 T2.intArray[4] = 100;
 Console.WriteLine("After modifying the intArray of T2:");
 Console.WriteLine($"T1: num1 = {T1.num1}, num2 = {T1.num2}, intArray: {string.Join(",", T1.intArray)}");
-Console.WriteLine($"T1: num1 = {T2.num1}, num2 = {T2.num2}, intArray: {string.Join(",", T2.intArray)}");
+Console.WriteLine($"T2: num1 = {T2.num1}, num2 = {T2.num2}, intArray: {string.Join(",", T2.intArray)}");
 Console.WriteLine($"T1 == T2: {T1.Equals(T2)}");
 Console.WriteLine();
 
