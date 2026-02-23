@@ -3,6 +3,7 @@
 
 using Lecture7Demo2;
 using System.Runtime.CompilerServices;
+using System.Security.AccessControl;
 CBox box1 = new CBox(4, 3);
 CBox box2 = new CBox(8, 2);
 CBox box3 = new CBox(6,3);
@@ -23,5 +24,11 @@ Console.WriteLine($"list of the boxes Area > {threshold}: {string.Join(", ", lis
 threshold = 10;
 Console.WriteLine($"list of the boxes after filtering with a lambda expression for area > {threshold} : {string.Join(", ", list.FindAll(box=>box.Area > threshold))}");
 
-
+list.Sort((left, right) => 
+{
+    int A = left.Area;
+    int B = right.Area;
+    return A.CompareTo(B);
+});
+Console.WriteLine($"list of the boxes after sorting by area : {string.Join(", ", list)}");
 
