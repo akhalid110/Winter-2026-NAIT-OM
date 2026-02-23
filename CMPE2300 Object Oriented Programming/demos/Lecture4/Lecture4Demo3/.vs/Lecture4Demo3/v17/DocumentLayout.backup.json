@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\opatel3\\Documents\\CMPE2300 - OOP\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture4\\Lecture4Demo3\\",
+  "WorkspaceRootPath": "C:\\Users\\ompatel\\Documents\\GitHub\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture4\\Lecture4Demo3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95ABE83C-9A0A-45AF-907A-59389959B396}|Lecture4Demo3\\Lecture4Demo3.csproj|c:\\users\\opatel3\\documents\\cmpe2300 - oop\\winter-2026-nait-\\cmpe2300 object oriented programming\\demos\\lecture4\\lecture4demo3\\lecture4demo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95ABE83C-9A0A-45AF-907A-59389959B396}|Lecture4Demo3\\Lecture4Demo3.csproj|c:\\users\\ompatel\\documents\\github\\winter-2026-nait-\\cmpe2300 object oriented programming\\demos\\lecture4\\lecture4demo3\\lecture4demo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95ABE83C-9A0A-45AF-907A-59389959B396}|Lecture4Demo3\\Lecture4Demo3.csproj|solutionrelative:lecture4demo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95ABE83C-9A0A-45AF-907A-59389959B396}|Lecture4Demo3\\Lecture4Demo3.csproj|c:\\users\\opatel3\\documents\\cmpe2300 - oop\\winter-2026-nait-\\cmpe2300 object oriented programming\\demos\\lecture4\\lecture4demo3\\lecture4demo3\\staticsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{95ABE83C-9A0A-45AF-907A-59389959B396}|Lecture4Demo3\\Lecture4Demo3.csproj|c:\\users\\ompatel\\documents\\github\\winter-2026-nait-\\cmpe2300 object oriented programming\\demos\\lecture4\\lecture4demo3\\lecture4demo3\\staticsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95ABE83C-9A0A-45AF-907A-59389959B396}|Lecture4Demo3\\Lecture4Demo3.csproj|solutionrelative:lecture4demo3\\staticsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "StaticSample.cs",
-              "DocumentMoniker": "C:\\Users\\opatel3\\Documents\\CMPE2300 - OOP\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture4\\Lecture4Demo3\\Lecture4Demo3\\StaticSample.cs",
+              "DocumentMoniker": "C:\\Users\\ompatel\\Documents\\GitHub\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture4\\Lecture4Demo3\\Lecture4Demo3\\StaticSample.cs",
               "RelativeDocumentMoniker": "Lecture4Demo3\\StaticSample.cs",
-              "ToolTip": "C:\\Users\\opatel3\\Documents\\CMPE2300 - OOP\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture4\\Lecture4Demo3\\Lecture4Demo3\\StaticSample.cs",
-              "RelativeToolTip": "Lecture4Demo3\\StaticSample.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ompatel\\Documents\\GitHub\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture4\\Lecture4Demo3\\Lecture4Demo3\\StaticSample.cs*",
+              "RelativeToolTip": "Lecture4Demo3\\StaticSample.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T21:10:02.277Z",
               "EditorCaption": ""
@@ -37,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\opatel3\\Documents\\CMPE2300 - OOP\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture4\\Lecture4Demo3\\Lecture4Demo3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ompatel\\Documents\\GitHub\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture4\\Lecture4Demo3\\Lecture4Demo3\\Program.cs",
               "RelativeDocumentMoniker": "Lecture4Demo3\\Program.cs",
-              "ToolTip": "C:\\Users\\opatel3\\Documents\\CMPE2300 - OOP\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture4\\Lecture4Demo3\\Lecture4Demo3\\Program.cs",
+              "ToolTip": "C:\\Users\\ompatel\\Documents\\GitHub\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\demos\\Lecture4\\Lecture4Demo3\\Lecture4Demo3\\Program.cs",
               "RelativeToolTip": "Lecture4Demo3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T21:07:03.472Z",
               "EditorCaption": ""

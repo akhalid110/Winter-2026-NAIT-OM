@@ -15,7 +15,7 @@ Console.WriteLine($"{widthValue}");
 Console.WriteLine();
 
 //Set Value
-b.Width = -15;
+b.Width = -25;
 Console.WriteLine($"set called using (b.Width) = {b.Width}");
 
 Console.WriteLine();

@@ -9,14 +9,14 @@ namespace Lecture4Demo3
     internal class StaticSample
     {
         //static fields 
-        private static Random rand = null;
+        private static Random? rand = null;
         private static int iStaticRand;
 
         //Static property
         public static int CurrentRand => iStaticRand;
 
         // instance property, utilizing static members
-        public int InstanceRand => rand.Next(0, StaticSample.CurrentRand);
+        public int InstanceRand => rand!.Next(0, StaticSample.CurrentRand);
 
         // Static CTOR - runs before instance CTOR..
         static StaticSample()

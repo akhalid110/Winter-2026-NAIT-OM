@@ -3,10 +3,11 @@
 
 
 using Lecture4Demo1;
-Ball b1 = new Ball();
+//Ball b1 = new Ball();
 
 //To access the member "color" we have to use the class name, since color is static 
 Ball.color = "White";
+Console.WriteLine($"Ball.color: {Ball.color}");
 
 //The static method must be invoke using the class name 
 Ball.AssignColor("Red");
