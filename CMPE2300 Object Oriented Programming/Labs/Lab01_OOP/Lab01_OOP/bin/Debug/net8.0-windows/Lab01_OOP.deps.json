@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lab01_OOP/1.0.0": {
+        "dependencies": {
+          "GDIDrawer": "1.4.0.9"
+        },
+        "runtime": {
+          "Lab01_OOP.dll": {}
+        }
+      },
+      "GDIDrawer/1.4.0.9": {
+        "runtime": {
+          "GDIDrawer.dll": {
+            "assemblyVersion": "1.4.0.9",
+            "fileVersion": "1.4.0.9"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab01_OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GDIDrawer/1.4.0.9": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
