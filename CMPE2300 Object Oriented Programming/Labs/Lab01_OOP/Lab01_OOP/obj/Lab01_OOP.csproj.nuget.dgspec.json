@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ompatel\\Documents\\GitHub\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\Labs\\Lab01_OOP\\Lab01_OOP\\Lab01_OOP.csproj": {}
+    "C:\\Users\\ommpa\\Documents\\Winter 2026 ( NAIT)\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\Labs\\Lab01_OOP\\Lab01_OOP\\Lab01_OOP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ompatel\\Documents\\GitHub\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\Labs\\Lab01_OOP\\Lab01_OOP\\Lab01_OOP.csproj": {
+    "C:\\Users\\ommpa\\Documents\\Winter 2026 ( NAIT)\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\Labs\\Lab01_OOP\\Lab01_OOP\\Lab01_OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ompatel\\Documents\\GitHub\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\Labs\\Lab01_OOP\\Lab01_OOP\\Lab01_OOP.csproj",
+        "projectUniqueName": "C:\\Users\\ommpa\\Documents\\Winter 2026 ( NAIT)\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\Labs\\Lab01_OOP\\Lab01_OOP\\Lab01_OOP.csproj",
         "projectName": "Lab01_OOP",
-        "projectPath": "C:\\Users\\ompatel\\Documents\\GitHub\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\Labs\\Lab01_OOP\\Lab01_OOP\\Lab01_OOP.csproj",
-        "packagesPath": "C:\\Users\\ompatel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ompatel\\Documents\\GitHub\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\Labs\\Lab01_OOP\\Lab01_OOP\\obj\\",
+        "projectPath": "C:\\Users\\ommpa\\Documents\\Winter 2026 ( NAIT)\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\Labs\\Lab01_OOP\\Lab01_OOP\\Lab01_OOP.csproj",
+        "packagesPath": "C:\\Users\\ommpa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ommpa\\Documents\\Winter 2026 ( NAIT)\\Winter-2026-NAIT-\\CMPE2300 Object Oriented Programming\\Labs\\Lab01_OOP\\Lab01_OOP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ompatel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ommpa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -66,7 +66,7 @@
               "version": "[8.0.24, 8.0.24]"
             },
             {
-              "name": "Microsoft.NETCore.App.Host.win-arm64",
+              "name": "Microsoft.NETCore.App.Host.win-x64",
               "version": "[8.0.24, 8.0.24]"
             },
             {
