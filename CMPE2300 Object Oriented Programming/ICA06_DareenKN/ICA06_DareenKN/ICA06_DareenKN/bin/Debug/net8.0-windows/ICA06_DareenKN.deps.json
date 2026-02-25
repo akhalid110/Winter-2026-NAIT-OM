@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ICA06_DareenKN/1.0.0": {
+        "dependencies": {
+          "GDIDrawer": "1.4.0.9"
+        },
+        "runtime": {
+          "ICA06_DareenKN.dll": {}
+        }
+      },
+      "GDIDrawer/1.4.0.9": {
+        "runtime": {
+          "GDIDrawer.dll": {
+            "assemblyVersion": "1.4.0.9",
+            "fileVersion": "1.4.0.9"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ICA06_DareenKN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GDIDrawer/1.4.0.9": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
