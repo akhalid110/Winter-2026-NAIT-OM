@@ -443,7 +443,7 @@ namespace Lab01_OOP
         {
             if (e.KeyCode == Keys.C) DoClear();
             if (e.KeyCode == Keys.R) DoRandomLoad();
-            if (e.KeyCode == Keys.G) {
+            if (e.KeyCode == Keys.G) { 
                 StatusAdd("Key: G");
                 DoGridLoad(); }
         }

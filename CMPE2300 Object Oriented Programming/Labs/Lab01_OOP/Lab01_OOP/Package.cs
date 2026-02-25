@@ -7,43 +7,17 @@ namespace Lab01_OOP
 {
     public class Package
     {
-        /******************************************************
-         * FIELD: _rnd
-         * PURPOSE: Random generator for NewLocation().
-         ******************************************************/
         private static readonly Random _rnd = new Random();
 
-        /******************************************************
-         * FIELD: _lines
-         * PURPOSE: Polygon vertices (relative to Location).
-         ******************************************************/
         private List<Point> _lines = new List<Point>();
-
-        /******************************************************
-         * FIELD: _id
-         * PURPOSE: Unique package ID.
-         ******************************************************/
         private int _id;
 
-        /******************************************************
-         * PROPERTY: ID
-         * PURPOSE: Read-only access to _id.
-         ******************************************************/
         public int ID
         {
             get { return _id; }
         }
 
-        /******************************************************
-         * PROPERTY: _color
-         * PURPOSE: Drawing color for this package.
-         ******************************************************/
         public Color _color { get; set; }
-
-        /******************************************************
-         * PROPERTY: Location
-         * PURPOSE: Center location of this package on canvas.
-         ******************************************************/
         public Point Location { get; set; }
 
         /******************************************************
@@ -51,14 +25,13 @@ namespace Lab01_OOP
          * PURPOSE:
          * - Parse one CSV line into:
          *   ID, Color(hex AARRGGBB), x1,y1,x2,y2,...
-         * - Handles trailing commas by ignoring empty tokens.
+         * - Ignore trailing commas by skipping empty tokens
          ******************************************************/
         public Package(string packageString)
         {
             if (string.IsNullOrWhiteSpace(packageString))
                 throw new FormatException("Not enough values to create a package.");
 
-            // Split and keep only non-empty trimmed tokens
             string[] raw = packageString.Split(',');
             List<string> tokens = new List<string>();
 
@@ -72,14 +45,13 @@ namespace Lab01_OOP
             if (tokens.Count < 8)
                 throw new FormatException("Not enough values to create a package.");
 
-            // ID
             if (!int.TryParse(tokens[0], out _id))
                 throw new FormatException("Invalid package ID.");
 
-            // Color token is hex like FF7EFF00
             int argb;
             try
             {
+                // tokens[1] is like FF7EFF00 (hex)
                 argb = Convert.ToInt32(tokens[1], 16);
             }
             catch
@@ -89,7 +61,6 @@ namespace Lab01_OOP
 
             _color = Color.FromArgb(unchecked(argb));
 
-            // Remaining tokens are x,y pairs
             int remain = tokens.Count - 2;
             if (remain % 2 != 0)
                 throw new FormatException("Point list must be x,y pairs.");
@@ -114,8 +85,8 @@ namespace Lab01_OOP
         /******************************************************
          * METHOD: Draw
          * PURPOSE:
-         * - Draw polygon edges with AddLine()
-         * - Draw ID centered at Location using inflated rect
+         * - Draw the polygon using AddLine()
+         * - Draw the ID centered using an inflated rectangle
          ******************************************************/
         public void Draw(CDrawer canvas)
         {
@@ -141,7 +112,7 @@ namespace Lab01_OOP
         /******************************************************
          * METHOD: InBounds
          * PURPOSE:
-         * - Returns true if ALL vertices are inside the canvas.
+         * - Return true if all vertices are inside drawer bounds
          ******************************************************/
         public bool InBounds(CDrawer canvas)
         {
@@ -160,11 +131,10 @@ namespace Lab01_OOP
         /******************************************************
          * METHOD: NewLocation
          * PURPOSE:
-         * - Randomly choose a new Location that is InBounds()
+         * - Pick a random Location that is in bounds
          ******************************************************/
         public void NewLocation(CDrawer canvas)
         {
-            // Keep trying until in bounds (caller controls outer max tries)
             while (true)
             {
                 int x = _rnd.Next(0, canvas.ScaledWidth);
@@ -180,8 +150,7 @@ namespace Lab01_OOP
         /******************************************************
          * METHOD: Intersects
          * PURPOSE:
-         * - Returns true if any edge of this polygon intersects
-         *   any edge of the other polygon.
+         * - Return true if any edge intersects any edge of other
          ******************************************************/
         public bool Intersects(Package other)
         {
@@ -203,15 +172,13 @@ namespace Lab01_OOP
         /******************************************************
          * METHOD: ContainsPackage
          * PURPOSE (per spec):
-         * - Create radial lines from center to each vertex of THIS
-         * - If ANY edge of OTHER intersects ANY radial line,
-         *   then OTHER must be inside THIS -> return true
+         * - Create radial lines from this Location to each vertex
+         * - If any other edge intersects any radial line => true
          ******************************************************/
         public bool ContainsPackage(Package other)
         {
             List<(Point A, Point B)> otherEdges = other.GetEdgesAbsolute();
 
-            // Radials from THIS center to each THIS vertex (absolute)
             for (int i = 0; i < _lines.Count; i++)
             {
                 Point vertex = new Point(Location.X + _lines[i].X, Location.Y + _lines[i].Y);
@@ -228,10 +195,9 @@ namespace Lab01_OOP
         }
 
         /******************************************************
-         * METHOD: Equals (override)
+         * METHOD: Equals
          * PURPOSE:
-         * - Two packages considered equal if they overlap OR contain
-         *   each other in any way (for lab placement logic).
+         * - Consider equal if overlap/containment exists
          ******************************************************/
         public override bool Equals(object? obj)
         {
@@ -239,7 +205,6 @@ namespace Lab01_OOP
             if (other == null)
                 return false;
 
-            // Overlap or containment in either direction
             if (Intersects(other))
                 return true;
 
@@ -253,9 +218,9 @@ namespace Lab01_OOP
         }
 
         /******************************************************
-         * METHOD: GetHashCode (override)
+         * METHOD: GetHashCode
          * PURPOSE:
-         * - Hash based on ID (stable identifier).
+         * - Hash by ID
          ******************************************************/
         public override int GetHashCode()
         {
@@ -263,9 +228,9 @@ namespace Lab01_OOP
         }
 
         /******************************************************
-         * METHOD: GetEdgesAbsolute (helper)
+         * METHOD: GetEdgesAbsolute
          * PURPOSE:
-         * - Convert polygon into list of absolute line segments.
+         * - Build list of absolute polygon edges
          ******************************************************/
         private List<(Point A, Point B)> GetEdgesAbsolute()
         {
@@ -286,12 +251,11 @@ namespace Lab01_OOP
         }
 
         /******************************************************
-         * METHOD: LineIntersects (static helper)
+         * METHOD: LineIntersects
          * PURPOSE:
-         * - Return true if line segments AB and CD intersect.
-         * CITATION (per spec requirement):
-         * - Based on standard orientation / segment intersection logic
-         *   commonly taught in computational geometry.
+         * - Determine if segments AB and CD intersect
+         * NOTE (spec wants citation):
+         * - Uses standard orientation + on-segment method
          ******************************************************/
         public static bool LineIntersects(Point a, Point b, Point c, Point d)
         {
@@ -300,11 +264,9 @@ namespace Lab01_OOP
             int o3 = Orientation(c, d, a);
             int o4 = Orientation(c, d, b);
 
-            // General case
             if (o1 != o2 && o3 != o4)
                 return true;
 
-            // Special cases (collinear)
             if (o1 == 0 && OnSegment(a, c, b)) return true;
             if (o2 == 0 && OnSegment(a, d, b)) return true;
             if (o3 == 0 && OnSegment(c, a, d)) return true;
@@ -314,12 +276,9 @@ namespace Lab01_OOP
         }
 
         /******************************************************
-         * METHOD: Orientation (helper)
+         * METHOD: Orientation
          * PURPOSE:
-         * - Returns:
-         *   0 = collinear
-         *   1 = clockwise
-         *   2 = counterclockwise
+         * - 0 collinear, 1 clockwise, 2 counterclockwise
          ******************************************************/
         private static int Orientation(Point p, Point q, Point r)
         {
@@ -331,9 +290,9 @@ namespace Lab01_OOP
         }
 
         /******************************************************
-         * METHOD: OnSegment (helper)
+         * METHOD: OnSegment
          * PURPOSE:
-         * - Check if q lies on segment pr (collinear case)
+         * - Check collinear case where q lies on segment pr
          ******************************************************/
         private static bool OnSegment(Point p, Point q, Point r)
         {
