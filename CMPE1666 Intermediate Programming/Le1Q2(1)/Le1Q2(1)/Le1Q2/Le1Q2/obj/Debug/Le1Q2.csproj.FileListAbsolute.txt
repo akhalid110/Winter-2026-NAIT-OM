@@ -1,0 +1,22 @@
+C:\Users\oveeyenm\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunWinter2023\LabExams-Makeup\makeup-Exam1\Le1Q2\Le1Q2\bin\Debug\Le1Q1-Solution.exe.config
+C:\Users\oveeyenm\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunWinter2023\LabExams-Makeup\makeup-Exam1\Le1Q2\Le1Q2\bin\Debug\Le1Q1-Solution.exe
+C:\Users\oveeyenm\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunWinter2023\LabExams-Makeup\makeup-Exam1\Le1Q2\Le1Q2\bin\Debug\Le1Q1-Solution.pdb
+C:\Users\oveeyenm\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunWinter2023\LabExams-Makeup\makeup-Exam1\Le1Q2\Le1Q2\obj\Debug\Le1Q2.csproj.AssemblyReference.cache
+C:\Users\oveeyenm\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunWinter2023\LabExams-Makeup\makeup-Exam1\Le1Q2\Le1Q2\obj\Debug\Le1Q2.csproj.SuggestedBindingRedirects.cache
+C:\Users\oveeyenm\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunWinter2023\LabExams-Makeup\makeup-Exam1\Le1Q2\Le1Q2\obj\Debug\Le1Q2.Form1.resources
+C:\Users\oveeyenm\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunWinter2023\LabExams-Makeup\makeup-Exam1\Le1Q2\Le1Q2\obj\Debug\Le1Q1_Solution.Properties.Resources.resources
+C:\Users\oveeyenm\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunWinter2023\LabExams-Makeup\makeup-Exam1\Le1Q2\Le1Q2\obj\Debug\Le1Q2.csproj.GenerateResource.cache
+C:\Users\oveeyenm\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunWinter2023\LabExams-Makeup\makeup-Exam1\Le1Q2\Le1Q2\obj\Debug\Le1Q2.csproj.CoreCompileInputs.cache
+C:\Users\oveeyenm\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunWinter2023\LabExams-Makeup\makeup-Exam1\Le1Q2\Le1Q2\obj\Debug\Le1Q1-Solution.exe
+C:\Users\oveeyenm\OneDrive - NAIT\Desktop\NaitCourses\CMPE1666-Intermediate Programming\RunWinter2023\LabExams-Makeup\makeup-Exam1\Le1Q2\Le1Q2\obj\Debug\Le1Q1-Solution.pdb
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\Le1Q2(1)\Le1Q2\Le1Q2\bin\Debug\Le1Q1-Solution.exe.config
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\Le1Q2(1)\Le1Q2\Le1Q2\bin\Debug\Le1Q1-Solution.exe
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\Le1Q2(1)\Le1Q2\Le1Q2\bin\Debug\Le1Q1-Solution.pdb
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\Le1Q2(1)\Le1Q2\Le1Q2\obj\Debug\Le1Q2.csproj.AssemblyReference.cache
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\Le1Q2(1)\Le1Q2\Le1Q2\obj\Debug\Le1Q1-Solution.exe.config
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\Le1Q2(1)\Le1Q2\Le1Q2\obj\Debug\Le1Q2.Form1.resources
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\Le1Q2(1)\Le1Q2\Le1Q2\obj\Debug\Le1Q1_Solution.Properties.Resources.resources
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\Le1Q2(1)\Le1Q2\Le1Q2\obj\Debug\Le1Q2.csproj.GenerateResource.cache
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\Le1Q2(1)\Le1Q2\Le1Q2\obj\Debug\Le1Q2.csproj.CoreCompileInputs.cache
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\Le1Q2(1)\Le1Q2\Le1Q2\obj\Debug\Le1Q1-Solution.exe
+C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\Le1Q2(1)\Le1Q2\Le1Q2\obj\Debug\Le1Q1-Solution.pdb
