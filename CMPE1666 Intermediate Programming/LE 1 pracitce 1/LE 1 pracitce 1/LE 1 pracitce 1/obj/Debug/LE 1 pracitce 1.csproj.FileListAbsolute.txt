@@ -10,3 +10,14 @@ C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE1666 Intermediate Progra
 C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE 1 pracitce 1\LE 1 pracitce 1\obj\Debug\LE 1 pra.0B8A69D3.Up2Date
 C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE 1 pracitce 1\LE 1 pracitce 1\obj\Debug\LE 1 pracitce 1.exe
 C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE 1 pracitce 1\LE 1 pracitce 1\obj\Debug\LE 1 pracitce 1.pdb
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE 1 pracitce 1\LE 1 pracitce 1\LE 1 pracitce 1\bin\Debug\LE 1 pracitce 1.exe.config
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE 1 pracitce 1\LE 1 pracitce 1\LE 1 pracitce 1\bin\Debug\LE 1 pracitce 1.exe
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE 1 pracitce 1\LE 1 pracitce 1\LE 1 pracitce 1\bin\Debug\LE 1 pracitce 1.pdb
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE 1 pracitce 1\LE 1 pracitce 1\LE 1 pracitce 1\obj\Debug\LE 1 pracitce 1.csproj.AssemblyReference.cache
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE 1 pracitce 1\LE 1 pracitce 1\LE 1 pracitce 1\obj\Debug\LE_1_pracitce_1.Form1.resources
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE 1 pracitce 1\LE 1 pracitce 1\LE 1 pracitce 1\obj\Debug\LE_1_pracitce_1.Properties.Resources.resources
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE 1 pracitce 1\LE 1 pracitce 1\LE 1 pracitce 1\obj\Debug\LE 1 pracitce 1.csproj.GenerateResource.cache
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE 1 pracitce 1\LE 1 pracitce 1\LE 1 pracitce 1\obj\Debug\LE 1 pracitce 1.csproj.CoreCompileInputs.cache
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE 1 pracitce 1\LE 1 pracitce 1\LE 1 pracitce 1\obj\Debug\LE 1 pra.0B8A69D3.Up2Date
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE 1 pracitce 1\LE 1 pracitce 1\LE 1 pracitce 1\obj\Debug\LE 1 pracitce 1.exe
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE 1 pracitce 1\LE 1 pracitce 1\LE 1 pracitce 1\obj\Debug\LE 1 pracitce 1.pdb

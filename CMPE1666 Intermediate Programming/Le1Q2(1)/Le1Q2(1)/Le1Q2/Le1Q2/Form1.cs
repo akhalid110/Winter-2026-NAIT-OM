@@ -1,18 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Le1Q2
 {
     public partial class Form1 : Form
     {
-        // List<T> member variable (Lecture 3 Lists) :contentReference[oaicite:3]{index=3}
+        // List to store generated values
         private List<int> _values = new List<int>();
         private Random _rand = new Random();
 
@@ -20,14 +14,15 @@ namespace Le1Q2
         {
             InitializeComponent();
 
-            // Default radio selection (matches screenshot)
+            // Default mode
             UI_ObtainValues_Radio.Checked = true;
 
-            // Hook up events (Lecture 2: event handlers on controls) :contentReference[oaicite:4]{index=4}
+            // Radio button handlers
             UI_ObtainValues_Radio.CheckedChanged += Operation_CheckedChanged;
             UI_SumValues_Radio.CheckedChanged += Operation_CheckedChanged;
             UI_Search_Radio.CheckedChanged += Operation_CheckedChanged;
 
+            // Button handlers
             UI_GenerateValues_Btn.Click += UI_GenerateValues_Btn_Click;
             UI_Sum_Btn.Click += UI_Sum_Btn_Click;
             UI_Search_Btn.Click += UI_Search_Btn_Click;
@@ -35,20 +30,20 @@ namespace Le1Q2
             UpdateUIForMode();
         }
 
-        // Consolidated handler for radio buttons
+        // ------------------- RADIO HANDLER -------------------
         private void Operation_CheckedChanged(object sender, EventArgs e)
         {
             UpdateUIForMode();
         }
 
-        // Enable/disable controls based on selected operation
+        // Enable / disable controls based on mode
         private void UpdateUIForMode()
         {
             bool obtain = UI_ObtainValues_Radio.Checked;
             bool sum = UI_SumValues_Radio.Checked;
             bool search = UI_Search_Radio.Checked;
 
-            // Obtain Values mode
+            // Obtain mode
             UI_GenerateValues_Btn.Enabled = obtain;
             UI_LowerLimit_Tbx.Enabled = obtain;
             Ui_UpperLimit_Tbx.Enabled = obtain;
@@ -56,14 +51,16 @@ namespace Le1Q2
 
             // Sum mode
             UI_Sum_Btn.Enabled = sum;
-            UI_Sum_Tbx.Enabled = sum; // can be ReadOnly in designer
+            UI_Sum_Tbx.Enabled = sum;
 
             // Search mode
             UI_Search_Btn.Enabled = search;
             UI_Search_Tbx.Enabled = search;
 
-            // Clear outputs when switching modes (optional but clean)
-            if (!sum) UI_Sum_Tbx.Text = "";
+            // Clear outputs when switching modes
+            if (!sum)
+                UI_Sum_Tbx.Text = "";
+
             if (!search)
             {
                 UI_Search_Tbx.Text = "";
@@ -71,10 +68,9 @@ namespace Le1Q2
             }
         }
 
-        // ------------------- BUTTON: Generate Values -------------------
+        // ------------------- GENERATE VALUES -------------------
         private void UI_GenerateValues_Btn_Click(object sender, EventArgs e)
         {
-            // validate inputs with TryParse (simple + safe)
             if (!int.TryParse(UI_LowerLimit_Tbx.Text, out int low))
             {
                 MessageBox.Show("Lower Limit must be a valid integer.");
@@ -101,26 +97,26 @@ namespace Le1Q2
 
             if (low > high)
             {
-                MessageBox.Show("Lower Limit must be <= Upper Limit.");
+                MessageBox.Show("Lower Limit must be less than or equal to Upper Limit.");
                 return;
             }
 
-            // clear old data
+            // Clear old data
             _values.Clear();
             UI_ListValues_Lbx.Items.Clear();
             UI_SearchValues_Lbx.Items.Clear();
             UI_Sum_Tbx.Text = "";
 
-            // generate random values and display
+            // Generate values
             for (int i = 0; i < count; i++)
             {
-                int v = _rand.Next(low, high + 1); // inclusive upper bound
+                int v = _rand.Next(low, high + 1);
                 _values.Add(v);
                 UI_ListValues_Lbx.Items.Add(v);
             }
         }
 
-        // ------------------- BUTTON: Sum of Even Values -------------------
+        // ------------------- SUM EVEN VALUES -------------------
         private void UI_Sum_Btn_Click(object sender, EventArgs e)
         {
             if (_values.Count == 0)
@@ -131,7 +127,6 @@ namespace Le1Q2
 
             int sum = 0;
 
-            // foreach over List<T> (Lecture 3) :contentReference[oaicite:5]{index=5}
             foreach (int v in _values)
             {
                 if (v % 2 == 0)
@@ -141,7 +136,7 @@ namespace Le1Q2
             UI_Sum_Tbx.Text = sum.ToString();
         }
 
-        // ------------------- BUTTON: Perform Search -------------------
+        // ------------------- SEARCH (INDEX + VALUE) -------------------
         private void UI_Search_Btn_Click(object sender, EventArgs e)
         {
             if (_values.Count == 0)
@@ -158,15 +153,19 @@ namespace Le1Q2
 
             UI_SearchValues_Lbx.Items.Clear();
 
-            // Find all matches and show them in the right listbox
-            foreach (int v in _values)
+            bool found = false;
+
+            // for-loop gives index + value
+            for (int i = 0; i < _values.Count; i++)
             {
-                if (v == target)
-                    UI_SearchValues_Lbx.Items.Add(v);
+                if (_values[i] == target)
+                {
+                    UI_SearchValues_Lbx.Items.Add($"Index {i} : {_values[i]}");
+                    found = true;
+                }
             }
 
-            // If nothing found, you can optionally show a message
-            if (UI_SearchValues_Lbx.Items.Count == 0)
+            if (!found)
                 UI_SearchValues_Lbx.Items.Add("No matches");
         }
     }

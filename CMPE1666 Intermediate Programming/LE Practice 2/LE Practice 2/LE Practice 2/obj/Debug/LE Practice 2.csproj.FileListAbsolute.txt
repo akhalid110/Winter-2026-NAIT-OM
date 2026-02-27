@@ -8,3 +8,13 @@ C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE1666 Intermediate Progra
 C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE Practice 2\LE Practice 2\obj\Debug\LE Practice 2.csproj.CoreCompileInputs.cache
 C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE Practice 2\LE Practice 2\obj\Debug\LE Practice 2.exe
 C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE Practice 2\LE Practice 2\obj\Debug\LE Practice 2.pdb
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE Practice 2\LE Practice 2\LE Practice 2\bin\Debug\LE Practice 2.exe.config
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE Practice 2\LE Practice 2\LE Practice 2\bin\Debug\LE Practice 2.exe
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE Practice 2\LE Practice 2\LE Practice 2\bin\Debug\LE Practice 2.pdb
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE Practice 2\LE Practice 2\LE Practice 2\obj\Debug\LE Practice 2.csproj.AssemblyReference.cache
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE Practice 2\LE Practice 2\LE Practice 2\obj\Debug\LE_Practice_2.Form1.resources
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE Practice 2\LE Practice 2\LE Practice 2\obj\Debug\LE_Practice_2.Properties.Resources.resources
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE Practice 2\LE Practice 2\LE Practice 2\obj\Debug\LE Practice 2.csproj.GenerateResource.cache
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE Practice 2\LE Practice 2\LE Practice 2\obj\Debug\LE Practice 2.csproj.CoreCompileInputs.cache
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE Practice 2\LE Practice 2\LE Practice 2\obj\Debug\LE Practice 2.exe
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE Practice 2\LE Practice 2\LE Practice 2\obj\Debug\LE Practice 2.pdb

@@ -11,3 +11,14 @@ C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE1666 Intermediate Progra
 C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE1QUE1\LE1QUE1\obj\Debug\LE1QUE1.exe
 C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE1QUE1\LE1QUE1\obj\Debug\LE1QUE1.pdb
 C:\Users\ompatel\Documents\GitHub\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE1QUE1\LE1QUE1\obj\Debug\LE1QUE1.exe.config
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE1QUE1\LE1QUE1\LE1QUE1\bin\Debug\LE1QUE1.exe.config
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE1QUE1\LE1QUE1\LE1QUE1\bin\Debug\LE1QUE1.exe
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE1QUE1\LE1QUE1\LE1QUE1\bin\Debug\LE1QUE1.pdb
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE1QUE1\LE1QUE1\LE1QUE1\obj\Debug\LE1QUE1.csproj.AssemblyReference.cache
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE1QUE1\LE1QUE1\LE1QUE1\obj\Debug\LE1QUE1.Form1.resources
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE1QUE1\LE1QUE1\LE1QUE1\obj\Debug\LE1QUE1.Properties.Resources.resources
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE1QUE1\LE1QUE1\LE1QUE1\obj\Debug\LE1QUE1.csproj.GenerateResource.cache
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE1QUE1\LE1QUE1\LE1QUE1\obj\Debug\LE1QUE1.csproj.CoreCompileInputs.cache
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE1QUE1\LE1QUE1\LE1QUE1\obj\Debug\LE1QUE1.csproj.Up2Date
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE1QUE1\LE1QUE1\LE1QUE1\obj\Debug\LE1QUE1.exe
+C:\Users\ommpa\Documents\Winter 2026 ( NAIT)\Winter-2026-NAIT-\CMPE1666 Intermediate Programming\LE1QUE1\LE1QUE1\LE1QUE1\obj\Debug\LE1QUE1.pdb
