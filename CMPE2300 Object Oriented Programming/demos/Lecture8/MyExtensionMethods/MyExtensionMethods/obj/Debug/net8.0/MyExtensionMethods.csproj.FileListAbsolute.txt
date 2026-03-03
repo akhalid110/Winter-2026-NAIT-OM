@@ -1,0 +1,12 @@
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture8\MyExtensionMethods\MyExtensionMethods\bin\Debug\net8.0\MyExtensionMethods.deps.json
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture8\MyExtensionMethods\MyExtensionMethods\bin\Debug\net8.0\MyExtensionMethods.dll
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture8\MyExtensionMethods\MyExtensionMethods\bin\Debug\net8.0\MyExtensionMethods.pdb
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture8\MyExtensionMethods\MyExtensionMethods\obj\Debug\net8.0\MyExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture8\MyExtensionMethods\MyExtensionMethods\obj\Debug\net8.0\MyExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture8\MyExtensionMethods\MyExtensionMethods\obj\Debug\net8.0\MyExtensionMethods.AssemblyInfo.cs
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture8\MyExtensionMethods\MyExtensionMethods\obj\Debug\net8.0\MyExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture8\MyExtensionMethods\MyExtensionMethods\obj\Debug\net8.0\MyExtensionMethods.sourcelink.json
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture8\MyExtensionMethods\MyExtensionMethods\obj\Debug\net8.0\MyExtensionMethods.dll
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture8\MyExtensionMethods\MyExtensionMethods\obj\Debug\net8.0\refint\MyExtensionMethods.dll
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture8\MyExtensionMethods\MyExtensionMethods\obj\Debug\net8.0\MyExtensionMethods.pdb
+C:\Users\opatel3\Documents\CMPE2300 - OOP\Winter-2026-NAIT-\CMPE2300 Object Oriented Programming\demos\Lecture8\MyExtensionMethods\MyExtensionMethods\obj\Debug\net8.0\ref\MyExtensionMethods.dll
